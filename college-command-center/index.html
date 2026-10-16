@@ -1,0 +1,239 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="A private adaptive study coach for RETAIL101, FINANCE101, and OFFICE101." />
+    <title>Course Command Center</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@400;500;600;700&family=Libre+Caslon+Text:wght@400;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="topbar">
+        <button class="brand" data-nav="overview" aria-label="Course Command Center home">
+          <span class="brand-mark">CC</span>
+          <span>
+            <strong>Course Command Center</strong>
+            <small>Portfolio demo · fictional coursework</small>
+          </span>
+        </button>
+        <nav class="main-nav" aria-label="Main navigation">
+          <button class="nav-button active" data-nav="overview">Overview</button>
+          <button class="nav-button" data-nav="tracker">Course tracker</button>
+          <button class="nav-button" data-nav="learn">Learn</button>
+          <button class="nav-button" data-nav="practice">Practice</button>
+          <button class="nav-button" data-nav="plan">Plan</button>
+          <button class="nav-button" data-nav="progress">Progress</button>
+        </nav>
+        <div class="header-score">
+          <span>MASTERY</span>
+          <strong id="header-mastery">0%</strong>
+        </div>
+      </header>
+
+      <main>
+        <section class="page active" id="page-overview" aria-labelledby="overview-title">
+          <div class="hero-grid">
+            <div class="hero-copy">
+              <p class="eyebrow">YOUR STUDY DESK</p>
+              <h1 id="overview-title">Learn the essentials.<br />Prove you remember them.</h1>
+              <p class="hero-text">Short lessons, targeted practice, and live explanations for the material you are studying right now.</p>
+              <div class="hero-actions">
+                <button class="primary-button" id="start-mission">Start today’s mission</button>
+                <button class="secondary-button" data-nav="learn">Review a lesson</button>
+              </div>
+            </div>
+            <div class="mission-card">
+              <div class="mission-topline">
+                <span class="eyebrow">TODAY’S MISSION</span>
+                <span class="mission-time">≈ 12 MIN</span>
+              </div>
+              <h2 id="mission-title">Build your baseline</h2>
+              <p id="mission-copy">Answer a short mixed set so the coach can identify your strongest and weakest topics.</p>
+              <div class="mission-route" id="mission-route"></div>
+            </div>
+          </div>
+
+          <div class="stat-grid" aria-label="Study summary">
+            <article class="stat-card">
+              <span>OVERALL MASTERY</span>
+              <strong id="overview-mastery">0%</strong>
+              <p id="overview-mastery-note">Complete practice to establish a baseline.</p>
+            </article>
+            <article class="stat-card">
+              <span>STUDY STREAK</span>
+              <strong id="overview-streak">0 days</strong>
+              <p>A short daily session keeps concepts active.</p>
+            </article>
+            <article class="stat-card">
+              <span>QUESTIONS ANSWERED</span>
+              <strong id="overview-attempts">0</strong>
+              <p id="overview-accuracy">No accuracy score yet.</p>
+            </article>
+          </div>
+
+          <div class="section-heading">
+            <div>
+              <p class="eyebrow">ACTIVE COURSES</p>
+              <h2>Current learning map</h2>
+            </div>
+            <p>Each course is divided into small skills so weak areas can be practiced separately.</p>
+          </div>
+          <div class="course-grid" id="course-grid"></div>
+        </section>
+
+        <section class="page" id="page-tracker" aria-labelledby="tracker-title">
+          <div class="section-heading tracker-heading">
+            <div>
+              <p class="eyebrow">8-WEEK COURSE TRACKER</p>
+              <h1 id="tracker-title">Every course. Every week. One view.</h1>
+              <p>Track assignments, grades, and the deadlines that are coming next.</p>
+            </div>
+            <div class="snapshot-note">
+              <span>DEMONSTRATION DATA</span>
+              <strong>Sample courses</strong>
+              <small>Fictional grades and assignments. Changes save only in this browser.</small>
+            </div>
+          </div>
+
+          <div class="grade-strip" id="grade-strip" aria-label="Current course grades"></div>
+
+          <article class="deadline-panel">
+            <div class="panel-heading">
+              <div>
+                <p class="eyebrow">UPCOMING</p>
+                <h2>Next deadlines</h2>
+              </div>
+              <span class="deadline-count" id="deadline-count"></span>
+            </div>
+            <div class="deadline-list" id="deadline-list"></div>
+          </article>
+
+          <div class="tracker-toolbar">
+            <div class="course-tabs" id="tracker-course-tabs" role="tablist" aria-label="Choose a course"></div>
+            <label class="toggle-label"><input type="checkbox" id="hide-finished" /> Hide finished work</label>
+          </div>
+          <div class="week-progress" id="week-progress"></div>
+          <div class="week-grid" id="week-grid"></div>
+        </section>
+
+        <section class="page" id="page-learn" aria-labelledby="learn-title">
+          <div class="section-heading lesson-intro">
+            <div>
+              <p class="eyebrow">REFRESHERS</p>
+              <h1 id="learn-title">Learn one idea at a time.</h1>
+              <p>Read the rules, follow the method, study the example, then practice the exact skill.</p>
+            </div>
+            <div class="lesson-count"><strong id="lesson-complete-count">0</strong><span>OF 9 REVIEWED</span></div>
+          </div>
+          <div class="lesson-layout">
+            <aside class="lesson-menu" id="lesson-menu" aria-label="Course lessons"></aside>
+            <article class="lesson-content" id="lesson-content"></article>
+          </div>
+        </section>
+
+        <section class="page" id="page-practice" aria-labelledby="practice-title">
+          <div class="practice-heading">
+            <div>
+              <p class="eyebrow">ADAPTIVE PRACTICE</p>
+              <h1 id="practice-title">Repair the weakest skill first.</h1>
+              <p id="practice-description">The next question is selected from the areas where you need the most repetition.</p>
+            </div>
+            <label class="filter-label">Course
+              <select id="practice-filter">
+                <option value="all">All courses</option>
+                <option value="RETAIL101">RETAIL101</option>
+                <option value="FINANCE101">FINANCE101</option>
+                <option value="OFFICE101">OFFICE101</option>
+              </select>
+            </label>
+          </div>
+
+          <div class="practice-meta">
+            <span id="practice-course" class="course-tag">RETAIL101</span>
+            <span id="practice-skill">System roles</span>
+            <span id="practice-run">Session: 0 correct / 0 attempted</span>
+          </div>
+
+          <article class="question-card">
+            <p class="question-number" id="question-number">QUESTION</p>
+            <h2 id="question-prompt"></h2>
+            <div class="choice-list" id="choice-list"></div>
+            <div class="confidence-row" id="confidence-row">
+              <span>How sure are you?</span>
+              <button class="confidence-button" data-confidence="1">Guessing</button>
+              <button class="confidence-button" data-confidence="2">Somewhat sure</button>
+              <button class="confidence-button" data-confidence="3">Confident</button>
+            </div>
+            <button class="primary-button submit-answer" id="submit-answer" disabled>Check answer</button>
+          </article>
+
+          <article class="feedback-panel" id="feedback-panel" hidden aria-live="polite">
+            <div class="feedback-heading">
+              <span id="feedback-result">Correct</span>
+              <strong id="feedback-xp">+10 XP</strong>
+            </div>
+            <p id="feedback-explanation"></p>
+            <div class="feedback-grid">
+              <div><span>COMMON TRAP</span><p id="feedback-trap"></p></div>
+              <div><span>TAKEAWAY</span><p id="feedback-takeaway"></p></div>
+            </div>
+            <button class="primary-button" id="next-question">Next adaptive question</button>
+          </article>
+        </section>
+
+        <section class="page" id="page-plan" aria-labelledby="plan-title">
+          <div class="section-heading">
+            <div>
+              <p class="eyebrow">SIMPLE WEEKLY PLAN</p>
+              <h1 id="plan-title">A little every day beats cramming.</h1>
+            </div>
+            <p>Check off each block as you finish it. Your checklist is saved in this browser.</p>
+          </div>
+          <div class="plan-grid" id="plan-grid"></div>
+          <div class="plan-footer">
+            <strong id="plan-status">0 of 7 study blocks complete</strong>
+            <button class="secondary-button" id="reset-plan">Reset weekly checklist</button>
+          </div>
+        </section>
+
+        <section class="page" id="page-progress" aria-labelledby="progress-title">
+          <div class="section-heading">
+            <div>
+              <p class="eyebrow">PROGRESS</p>
+              <h1 id="progress-title">Know what is strong—and what is next.</h1>
+            </div>
+            <p>Mastery combines accuracy, repetition, and confidence. New skills begin untested.</p>
+          </div>
+          <div class="progress-summary" id="progress-summary"></div>
+          <div class="progress-columns">
+            <article class="progress-panel">
+              <p class="eyebrow">STRENGTHS</p>
+              <div id="strength-list"></div>
+            </article>
+            <article class="progress-panel focus-panel">
+              <p class="eyebrow">FOCUS NEXT</p>
+              <div id="focus-list"></div>
+            </article>
+          </div>
+          <article class="skill-table-panel">
+            <div class="panel-heading">
+              <h2>Skill breakdown</h2>
+              <button class="danger-link" id="reset-progress">Reset all progress</button>
+            </div>
+            <div class="table-wrap">
+              <table>
+                <thead><tr><th>Course</th><th>Skill</th><th>Attempts</th><th>Accuracy</th><th>Mastery</th></tr></thead>
+                <tbody id="skill-table-body"></tbody>
+              </table>
+            </div>
+          </article>
+        </section>
+      </main>
+    </div>
+    <script src="./app.js"></script>
+  </body>
+</html>

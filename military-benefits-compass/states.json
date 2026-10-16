@@ -1,0 +1,352 @@
+[
+  {
+    "url": "https://va.alabama.gov/",
+    "source": "https://nasdva.us/resources/",
+    "coverage": "Official state-agency gateway; specific programs require review",
+    "last_verified": "2026-10-15",
+    "name": "Alabama"
+  },
+  {
+    "url": "https://veterans.alaska.gov/",
+    "source": "https://nasdva.us/resources/",
+    "coverage": "Official state-agency gateway; specific programs require review",
+    "last_verified": "2026-10-15",
+    "name": "Alaska"
+  },
+  {
+    "url": "https://dvs.az.gov/",
+    "source": "https://nasdva.us/resources/",
+    "coverage": "Official state-agency gateway; specific programs require review",
+    "last_verified": "2026-10-15",
+    "name": "Arizona"
+  },
+  {
+    "url": "https://www.veterans.arkansas.gov/",
+    "source": "https://nasdva.us/resources/",
+    "coverage": "Official state-agency gateway; specific programs require review",
+    "last_verified": "2026-10-15",
+    "name": "Arkansas"
+  },
+  {
+    "url": "https://www.calvet.ca.gov/",
+    "source": "https://nasdva.us/resources/",
+    "coverage": "Official state-agency gateway; specific programs require review",
+    "last_verified": "2026-10-15",
+    "name": "California"
+  },
+  {
+    "url": "https://www.colorado.gov/vets",
+    "source": "https://nasdva.us/resources/",
+    "coverage": "Official state-agency gateway; specific programs require review",
+    "last_verified": "2026-10-15",
+    "name": "Colorado"
+  },
+  {
+    "url": "https://portal.ct.gov/DVA/",
+    "source": "https://nasdva.us/resources/",
+    "coverage": "Official state-agency gateway; specific programs require review",
+    "last_verified": "2026-10-15",
+    "name": "Connecticut"
+  },
+  {
+    "url": "https://vets.delaware.gov/",
+    "source": "https://nasdva.us/resources/",
+    "coverage": "Official state-agency gateway; specific programs require review",
+    "last_verified": "2026-10-15",
+    "name": "Delaware"
+  },
+  {
+    "url": "https://www.floridavets.org/",
+    "source": "https://nasdva.us/resources/",
+    "coverage": "Official state-agency gateway; specific programs require review",
+    "last_verified": "2026-10-15",
+    "name": "Florida"
+  },
+  {
+    "url": "https://veterans.georgia.gov/",
+    "source": "https://nasdva.us/resources/",
+    "coverage": "Official state-agency gateway; specific programs require review",
+    "last_verified": "2026-10-15",
+    "name": "Georgia"
+  },
+  {
+    "url": "https://dod.hawaii.gov/",
+    "source": "https://nasdva.us/resources/",
+    "coverage": "Official state-agency gateway; specific programs require review",
+    "last_verified": "2026-10-15",
+    "name": "Hawaii"
+  },
+  {
+    "url": "https://veterans.idaho.gov/",
+    "source": "https://nasdva.us/resources/",
+    "coverage": "Official state-agency gateway; specific programs require review",
+    "last_verified": "2026-10-15",
+    "name": "Idaho"
+  },
+  {
+    "url": "https://veterans.illinois.gov/",
+    "source": "https://nasdva.us/resources/",
+    "coverage": "Official state-agency gateway; specific programs require review",
+    "last_verified": "2026-10-15",
+    "name": "Illinois"
+  },
+  {
+    "url": "https://www.in.gov/dva/",
+    "source": "https://nasdva.us/resources/",
+    "coverage": "Official state-agency gateway; specific programs require review",
+    "last_verified": "2026-10-15",
+    "name": "Indiana"
+  },
+  {
+    "url": "https://dva.iowa.gov/",
+    "source": "https://nasdva.us/resources/",
+    "coverage": "Official state-agency gateway; specific programs require review",
+    "last_verified": "2026-10-15",
+    "name": "Iowa"
+  },
+  {
+    "url": "https://kcva.ks.gov/",
+    "source": "https://nasdva.us/resources/",
+    "coverage": "Official state-agency gateway; specific programs require review",
+    "last_verified": "2026-10-15",
+    "name": "Kansas"
+  },
+  {
+    "url": "https://veterans.ky.gov/pages/index.aspx",
+    "source": "https://nasdva.us/resources/",
+    "coverage": "Official state-agency gateway; specific programs require review",
+    "last_verified": "2026-10-15",
+    "name": "Kentucky"
+  },
+  {
+    "url": "https://vetaffairs.la.gov/",
+    "source": "https://nasdva.us/resources/",
+    "coverage": "Official state-agency gateway; specific programs require review",
+    "last_verified": "2026-10-15",
+    "name": "Louisiana"
+  },
+  {
+    "url": "https://www.maine.gov/veterans/",
+    "source": "https://nasdva.us/resources/",
+    "coverage": "Official state-agency gateway; specific programs require review",
+    "last_verified": "2026-10-15",
+    "name": "Maine"
+  },
+  {
+    "url": "https://veterans.maryland.gov/",
+    "source": "https://nasdva.us/resources/",
+    "coverage": "Official state-agency gateway; specific programs require review",
+    "last_verified": "2026-10-15",
+    "name": "Maryland"
+  },
+  {
+    "url": "https://www.mass.gov/orgs/massachusetts-department-of-veterans-services",
+    "source": "https://nasdva.us/resources/",
+    "coverage": "Official state-agency gateway; specific programs require review",
+    "last_verified": "2026-10-15",
+    "name": "Massachusetts"
+  },
+  {
+    "url": "https://www.michigan.gov/mvaa",
+    "source": "https://nasdva.us/resources/",
+    "coverage": "Official state-agency gateway; specific programs require review",
+    "last_verified": "2026-10-15",
+    "name": "Michigan"
+  },
+  {
+    "url": "https://mn.gov/mdva/",
+    "source": "https://nasdva.us/resources/",
+    "coverage": "Official state-agency gateway; specific programs require review",
+    "last_verified": "2026-10-15",
+    "name": "Minnesota"
+  },
+  {
+    "url": "https://www.msva.ms.gov/",
+    "source": "https://nasdva.us/resources/",
+    "coverage": "Official state-agency gateway; specific programs require review",
+    "last_verified": "2026-10-15",
+    "name": "Mississippi"
+  },
+  {
+    "url": "https://mvc.dps.mo.gov/",
+    "source": "https://nasdva.us/resources/",
+    "coverage": "Official state-agency gateway; specific programs require review",
+    "last_verified": "2026-10-15",
+    "name": "Missouri"
+  },
+  {
+    "url": "https://dma.mt.gov/",
+    "source": "https://nasdva.us/resources/",
+    "coverage": "Official state-agency gateway; specific programs require review",
+    "last_verified": "2026-10-15",
+    "name": "Montana"
+  },
+  {
+    "url": "https://veterans.nebraska.gov/",
+    "source": "https://nasdva.us/resources/",
+    "coverage": "Official state-agency gateway; specific programs require review",
+    "last_verified": "2026-10-15",
+    "name": "Nebraska"
+  },
+  {
+    "url": "https://veterans.nv.gov/",
+    "source": "https://nasdva.us/resources/",
+    "coverage": "Official state-agency gateway; specific programs require review",
+    "last_verified": "2026-10-15",
+    "name": "Nevada"
+  },
+  {
+    "url": "https://www.dmavs.nh.gov/",
+    "source": "https://nasdva.us/resources/",
+    "coverage": "Official state-agency gateway; specific programs require review",
+    "last_verified": "2026-10-15",
+    "name": "New Hampshire"
+  },
+  {
+    "url": "https://www.nj.gov/military/",
+    "source": "https://nasdva.us/resources/",
+    "coverage": "Official state-agency gateway; specific programs require review",
+    "last_verified": "2026-10-15",
+    "name": "New Jersey"
+  },
+  {
+    "url": "https://www.dvs.nm.gov/",
+    "source": "https://nasdva.us/resources/",
+    "coverage": "Official state-agency gateway; specific programs require review",
+    "last_verified": "2026-10-15",
+    "name": "New Mexico"
+  },
+  {
+    "url": "https://veterans.ny.gov/",
+    "source": "https://nasdva.us/resources/",
+    "coverage": "Official state-agency gateway; specific programs require review",
+    "last_verified": "2026-10-15",
+    "name": "New York"
+  },
+  {
+    "url": "https://www.milvets.nc.gov/",
+    "source": "https://nasdva.us/resources/",
+    "coverage": "Official state-agency gateway; specific programs require review",
+    "last_verified": "2026-10-15",
+    "name": "North Carolina"
+  },
+  {
+    "url": "https://www.veterans.nd.gov/",
+    "source": "https://nasdva.us/resources/",
+    "coverage": "Official state-agency gateway; specific programs require review",
+    "last_verified": "2026-10-15",
+    "name": "North Dakota"
+  },
+  {
+    "url": "https://dvs.ohio.gov/",
+    "source": "https://nasdva.us/resources/",
+    "coverage": "Official state-agency gateway; specific programs require review",
+    "last_verified": "2026-10-15",
+    "name": "Ohio"
+  },
+  {
+    "url": "https://oklahoma.gov/veterans.html",
+    "source": "https://nasdva.us/resources/",
+    "coverage": "Official state-agency gateway; specific programs require review",
+    "last_verified": "2026-10-15",
+    "name": "Oklahoma"
+  },
+  {
+    "url": "https://www.oregon.gov/odva/Pages/default.aspx",
+    "source": "https://nasdva.us/resources/",
+    "coverage": "Official state-agency gateway; specific programs require review",
+    "last_verified": "2026-10-15",
+    "name": "Oregon"
+  },
+  {
+    "url": "https://www.pa.gov/agencies/dmva",
+    "source": "https://nasdva.us/resources/",
+    "coverage": "Official state-agency gateway; specific programs require review",
+    "last_verified": "2026-10-15",
+    "name": "Pennsylvania"
+  },
+  {
+    "url": "https://vets.ri.gov/",
+    "source": "https://nasdva.us/resources/",
+    "coverage": "Official state-agency gateway; specific programs require review",
+    "last_verified": "2026-10-15",
+    "name": "Rhode Island"
+  },
+  {
+    "url": "https://scdva.sc.gov/",
+    "source": "https://nasdva.us/resources/",
+    "coverage": "Official state-agency gateway; specific programs require review",
+    "last_verified": "2026-10-15",
+    "name": "South Carolina"
+  },
+  {
+    "url": "https://vetaffairs.sd.gov/",
+    "source": "https://nasdva.us/resources/",
+    "coverage": "Official state-agency gateway; specific programs require review",
+    "last_verified": "2026-10-15",
+    "name": "South Dakota"
+  },
+  {
+    "url": "https://www.tn.gov/veteran/",
+    "source": "https://nasdva.us/resources/",
+    "coverage": "Official state-agency gateway; specific programs require review",
+    "last_verified": "2026-10-15",
+    "name": "Tennessee"
+  },
+  {
+    "url": "https://tvc.texas.gov/",
+    "source": "https://nasdva.us/resources/",
+    "coverage": "Official state-agency gateway; specific programs require review",
+    "last_verified": "2026-10-15",
+    "name": "Texas"
+  },
+  {
+    "url": "https://veterans.utah.gov/",
+    "source": "https://nasdva.us/resources/",
+    "coverage": "Official state-agency gateway; specific programs require review",
+    "last_verified": "2026-10-15",
+    "name": "Utah"
+  },
+  {
+    "url": "https://veterans.vermont.gov/",
+    "source": "https://nasdva.us/resources/",
+    "coverage": "Official state-agency gateway; specific programs require review",
+    "last_verified": "2026-10-15",
+    "name": "Vermont"
+  },
+  {
+    "url": "https://www.dvs.virginia.gov/",
+    "source": "https://nasdva.us/resources/",
+    "coverage": "Official state-agency gateway; specific programs require review",
+    "last_verified": "2026-10-15",
+    "name": "Virginia"
+  },
+  {
+    "url": "https://www.dva.wa.gov/",
+    "source": "https://nasdva.us/resources/",
+    "coverage": "Official state-agency gateway; specific programs require review",
+    "last_verified": "2026-10-15",
+    "name": "Washington"
+  },
+  {
+    "url": "https://veterans.wv.gov/",
+    "source": "https://nasdva.us/resources/",
+    "coverage": "Official state-agency gateway; specific programs require review",
+    "last_verified": "2026-10-15",
+    "name": "West Virginia"
+  },
+  {
+    "url": "https://dva.wi.gov/",
+    "source": "https://nasdva.us/resources/",
+    "coverage": "Official state-agency gateway; specific programs require review",
+    "last_verified": "2026-10-15",
+    "name": "Wisconsin"
+  },
+  {
+    "url": "https://www.wyomilitary.wyo.gov/resources/veteran/veterans-commission/",
+    "source": "https://nasdva.us/resources/",
+    "coverage": "Official state-agency gateway; specific programs require review",
+    "last_verified": "2026-10-15",
+    "name": "Wyoming"
+  }
+]

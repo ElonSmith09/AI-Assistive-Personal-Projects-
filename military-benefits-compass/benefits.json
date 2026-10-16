@@ -1,0 +1,3579 @@
+[
+  {
+    "id": "army-01",
+    "title": "Army Tuition Assistance via ArmyIgnitED",
+    "category": "Education & careers",
+    "eligibility": "Eligible serving Army Soldiers",
+    "description": "Army funding can help pay tuition for approved classes taken outside duty hours. Apply through ArmyIgnitED before starting.",
+    "url": "https://myarmybenefits.us.army.mil/Benefit-Library/Federal-Benefits/Tuition-Assistance-(TA)",
+    "geographic_scope": "United States / overseas installations",
+    "caveats": "Supervisor/commander representative approval required since March 19, 2026. First-time training and decision-support tool required. TA/CA share overall fiscal-year ceiling; confirm available funding in ArmyIgnitED.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary Army source",
+    "statuses": [
+      "active"
+    ]
+  },
+  {
+    "id": "army-02",
+    "title": "Army Credentialing Assistance",
+    "category": "Education & careers",
+    "eligibility": "Eligible Army enlisted Soldiers and warrant officers",
+    "description": "Army funding can help you earn approved civilian job certifications or licenses. Your rank, funding limits, and approval requirements matter.",
+    "url": "https://myarmybenefits.us.army.mil/Benefit-Library/Federal-Benefits/Army-Credentialing-Opportunities-On-Line-%28COOL%29",
+    "geographic_scope": "United States / overseas installations",
+    "caveats": "Commissioned officers ineligible after March 19, 2026, apart from stated grandfathering. Supervisor approval; combined TA/CA ceiling $4,500. Course/exam requirements and recoupment apply.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary Army source",
+    "statuses": [
+      "active"
+    ]
+  },
+  {
+    "id": "army-03",
+    "title": "Army Career Skills Program",
+    "category": "Education & careers",
+    "eligibility": "Transitioning Soldiers expecting honorable or general under honorable separation",
+    "description": "Build civilian job skills before leaving the Army through approved training, an apprenticeship, or an internship.",
+    "url": "https://home.army.mil/imcom/index.php/customers/career-skills-program/frequently-asked-questions",
+    "geographic_scope": "United States / overseas installations",
+    "caveats": "Typically last 180 days eligibility window; actual authorized duration varies by rank/category. IDES/SRU timing can differ; ask CSP counselor. Not automatic permission or job guarantee.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary Army source",
+    "statuses": [
+      "active",
+      "general"
+    ]
+  },
+  {
+    "id": "army-04",
+    "title": "Army Recovery Care Coordination",
+    "category": "Health & recovery",
+    "eligibility": "Qualifying seriously wounded, ill or injured Soldiers; SRU Soldiers and certain transitioning medical retirees",
+    "description": "A recovery coordinator helps eligible wounded, ill, or injured Soldiers organize support and plan the move back to duty or civilian life.",
+    "url": "https://www.arcp.army.mil/Recovery-Care/",
+    "geographic_scope": "United States / overseas installations",
+    "caveats": "Clinical/program criteria apply; disability rating alone does not establish eligibility. Includes stated TDRL/SRU categories.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary Army source",
+    "statuses": [
+      "active",
+      "retired"
+    ]
+  },
+  {
+    "id": "army-05",
+    "title": "Army MWR Leisure Travel Services",
+    "category": "Leisure & tickets",
+    "eligibility": "Eligible Army MWR patrons including active duty and retirees",
+    "description": "Local travel offices offer discounted ticket and leisure travel options.",
+    "url": "https://www.armymwr.com/travel/travel-offices",
+    "geographic_scope": "United States / overseas installations",
+    "caveats": "Vendor-specific tickets have stricter eligibility than general MWR access. Confirm local inventory and ID; 10% VA/VHIC does not qualify for every military salute offer.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary Army source",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran"
+    ]
+  },
+  {
+    "id": "army-06",
+    "title": "Army MWR retail recreation",
+    "category": "Leisure & tickets",
+    "eligibility": "Active duty, retirees and qualifying service-connected disabled veterans",
+    "description": "Access to eligible recreation, lodging, golf, bowling, equipment rental and other MWR activities.",
+    "url": "https://www.armymwr.com/patrons",
+    "geographic_scope": "United States / overseas installations",
+    "caveats": "Facility, installation access and patron-category rules apply. Benefits may involve fees; eligibility is not free admission to all facilities.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary Army source",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran"
+    ]
+  },
+  {
+    "id": "benefit-01",
+    "title": "Microsoft Software and Systems Academy (MSSA)",
+    "category": "Education & careers",
+    "eligibility": "Transitioning active duty; veterans; retirees; Guard/Reserve",
+    "description": "A free, full-time 17-week technology training program from Microsoft. It helps eligible service members and veterans prepare for jobs in cloud computing, software development, or cybersecurity.",
+    "url": "https://military.microsoft.com/mssa/",
+    "geographic_scope": "United States / Europe / online",
+    "caveats": "Admissions and prerequisites apply. Service members generally within six months of separation; no guaranteed job. Next listed April 2027 cohort application window: November 16\u201330, 2026.",
+    "last_verified": "2026-10-15",
+    "source_type": "Primary provider",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran",
+      "general"
+    ]
+  },
+  {
+    "id": "benefit-04",
+    "title": "Veteran Readiness and Employment (VR&E)",
+    "category": "Education & careers",
+    "eligibility": "Veterans with VA service-connected rating 10%+; some active duty applicants",
+    "description": "VA helps you plan for work, train for a suitable career, or live more independently when a service-connected disability creates barriers.",
+    "url": "https://www.va.gov/careers-employment/vocational-rehabilitation/eligibility/",
+    "geographic_scope": "United States / some overseas services",
+    "caveats": "10% allows application, not automatic entitlement: serious employment handicap generally needed at 10%; counselor decides. Dishonorable discharge ordinarily excludes.",
+    "last_verified": "2026-10-15",
+    "source_type": "Primary provider",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran",
+      "general"
+    ]
+  },
+  {
+    "id": "benefit-11",
+    "title": "Army Emergency Relief",
+    "category": "Money & grants",
+    "eligibility": "Active duty and medically or otherwise eligible retired Soldiers and families",
+    "description": "Army Emergency Relief may help cover an urgent bill or essential expense with a grant, an interest-free loan, or both. A grant does not need to be repaid; a loan does.",
+    "url": "https://www.armyemergencyrelief.org/assistance/",
+    "geographic_scope": "United States / overseas",
+    "caveats": "Branch and status restrictions; individualized assessment. Not all awards are grants.",
+    "last_verified": "2026-10-15",
+    "source_type": "Primary provider",
+    "statuses": [
+      "active",
+      "retired"
+    ]
+  },
+  {
+    "id": "benefit-13",
+    "title": "Army Career Skills Support grants",
+    "category": "Money & grants",
+    "eligibility": "Retiring or separating Soldiers in Army Career Skills Program",
+    "description": "Location-dependent grants to reduce transition training costs.",
+    "url": "https://www.armyemergencyrelief.org/assistance/",
+    "geographic_scope": "United States / overseas",
+    "caveats": "CSP participation and program rules required; awards vary.",
+    "last_verified": "2026-10-15",
+    "source_type": "Primary provider",
+    "statuses": [
+      "active"
+    ]
+  },
+  {
+    "id": "benefit-02",
+    "title": "MSSA Europe",
+    "category": "Education & careers",
+    "eligibility": "Eligible US or UK service members and veterans in Europe",
+    "description": "MSSA training offered in Central European Time.",
+    "url": "https://military.microsoft.com/mssa/",
+    "geographic_scope": "Europe / online",
+    "caveats": "Admissions apply; listed April 5\u2013July 30, 2027 cohort accepts applications November 16\u201330, 2026.",
+    "last_verified": "2026-10-15",
+    "source_type": "Primary provider",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran",
+      "general"
+    ]
+  },
+  {
+    "id": "benefit-03",
+    "title": "SkillBridge",
+    "category": "Education & careers",
+    "eligibility": "Transitioning active duty",
+    "description": "Get civilian work experience or job training near the end of your military service. Your command must approve participation before you start.",
+    "url": "https://www.skillbridge.mil/programoverview",
+    "geographic_scope": "United States / provider dependent",
+    "caveats": "Written command approval required; service policies can limit participation duration. Participation and employment are not guaranteed.",
+    "last_verified": "2026-10-15",
+    "source_type": "Primary provider",
+    "statuses": [
+      "active"
+    ]
+  },
+  {
+    "id": "benefit-05",
+    "title": "Post-9/11 GI Bill",
+    "category": "Education & careers",
+    "eligibility": "Qualifying active duty or veterans with qualifying service and discharge",
+    "description": "Use earned military education benefits to help pay for approved college or job training. Housing and book payments depend on your situation.",
+    "url": "https://www.va.gov/education/about-gi-bill-benefits/post-9-11/",
+    "geographic_scope": "United States / approved foreign study",
+    "caveats": "Generally requires honorable discharge for veterans; general under honorable alone is not sufficient for this GI Bill. Qualifying service and approved program required; active-duty housing allowance rules differ.",
+    "last_verified": "2026-10-15",
+    "source_type": "Primary provider",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran"
+    ]
+  },
+  {
+    "id": "benefit-06",
+    "title": "Yellow Ribbon Program",
+    "category": "Education & careers",
+    "eligibility": "100% Post-9/11 GI Bill benefit level; participating school",
+    "description": "Some schools and VA share extra tuition costs that your Post-9/11 GI Bill does not cover. You must qualify at the full GI Bill benefit level.",
+    "url": "https://www.va.gov/education/about-gi-bill-benefits/post-9-11/yellow-ribbon-program/",
+    "geographic_scope": "United States / participating foreign schools",
+    "caveats": "School capacity and agreement limit awards; 100% GI Bill eligibility is different from a 100% disability rating.",
+    "last_verified": "2026-10-15",
+    "source_type": "Primary provider",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran"
+    ]
+  },
+  {
+    "id": "benefit-07",
+    "title": "Rogers STEM Scholarship",
+    "category": "Education & careers",
+    "eligibility": "Eligible Post-9/11 GI Bill veterans or Fry Scholars in qualifying STEM study",
+    "description": "Extra education support for eligible students finishing certain science, technology, engineering, or math programs when their GI Bill benefits are running low.",
+    "url": "https://www.va.gov/education/about-gi-bill-benefits/",
+    "geographic_scope": "Approved programs",
+    "caveats": "Award is not automatic; qualifying degree, credits and remaining entitlement rules apply.",
+    "last_verified": "2026-10-15",
+    "source_type": "Primary provider",
+    "statuses": [
+      "retired",
+      "veteran"
+    ]
+  },
+  {
+    "id": "benefit-08",
+    "title": "GI Bill foreign-school study",
+    "category": "Education & careers",
+    "eligibility": "Eligible GI Bill beneficiaries",
+    "description": "Use earned education benefits at approved foreign programs.",
+    "url": "https://www.va.gov/education/about-gi-bill-benefits/",
+    "geographic_scope": "Overseas",
+    "caveats": "VA must approve the school and program; confirm coverage before enrolling.",
+    "last_verified": "2026-10-15",
+    "source_type": "Primary provider",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran"
+    ]
+  },
+  {
+    "id": "benefit-09",
+    "title": "VA disability compensation",
+    "category": "Money & grants",
+    "eligibility": "Veterans with qualifying service-connected disabilities rated 10%+",
+    "description": "A monthly, tax-free VA payment for qualifying disabilities connected to your military service.",
+    "url": "https://benefits.va.gov/COMPENSATION/types-disability.asp",
+    "geographic_scope": "United States / overseas",
+    "caveats": "VA and military disability ratings are separate. Character-of-service rules apply; active-duty pay affects payment.",
+    "last_verified": "2026-10-15",
+    "source_type": "Primary provider",
+    "statuses": [
+      "retired",
+      "veteran",
+      "general"
+    ]
+  },
+  {
+    "id": "benefit-10",
+    "title": "Combat-Related Special Compensation (CRSC)",
+    "category": "Money & grants",
+    "eligibility": "Military retirees with combat-related VA disability 10%+",
+    "description": "Some retirees with combat-related disabilities can recover part of the military retired pay reduced because they also receive VA disability pay.",
+    "url": "https://www.dfas.mil/RetiredMilitary/disability/crsc/retiredpay/",
+    "geographic_scope": "United States / overseas",
+    "caveats": "Apply to service branch; combat-related approval required. Chapter 61 limitations and retired-pay offsets affect amount.",
+    "last_verified": "2026-10-15",
+    "source_type": "Primary provider",
+    "statuses": [
+      "retired"
+    ]
+  },
+  {
+    "id": "benefit-12",
+    "title": "Army Wounded Warrior Comfort Grants",
+    "category": "Money & grants",
+    "eligibility": "Qualifying medically evacuated Soldiers",
+    "description": "Immediate hospitalization grant for eligible medical evacuation circumstances.",
+    "url": "https://www.armyemergencyrelief.org/assistance/",
+    "geographic_scope": "United States / overseas",
+    "caveats": "Specific evacuation and hospitalization criteria apply; ask AER office.",
+    "last_verified": "2026-10-15",
+    "source_type": "Primary provider",
+    "statuses": [
+      "active"
+    ]
+  },
+  {
+    "id": "benefit-16",
+    "title": "VA clothing allowance",
+    "category": "Money & grants",
+    "eligibility": "Veterans whose service-connected device or skin medication damages clothing",
+    "description": "An annual VA payment may help replace clothes damaged by a qualifying disability device or prescribed skin medicine.",
+    "url": "https://www.va.gov/disability/eligibility/special-claims/clothing-allowance/",
+    "geographic_scope": "United States / overseas",
+    "caveats": "Qualifying device/medicine and application rules; August 1 annual qualification deadline. Rating percentage alone does not qualify.",
+    "last_verified": "2026-10-15",
+    "source_type": "Primary provider",
+    "statuses": [
+      "retired",
+      "veteran",
+      "general"
+    ]
+  },
+  {
+    "id": "benefit-17",
+    "title": "VA automobile allowance and adaptive equipment",
+    "category": "Money & grants",
+    "eligibility": "Veterans or service members with specific service-connected impairments",
+    "description": "VA may help you buy or adapt a vehicle if you have a specific qualifying disability. Get approval before making the purchase.",
+    "url": "https://www.va.gov/disability/eligibility/special-claims/automobile-allowance-adaptive-equipment/",
+    "geographic_scope": "United States; contact VA for overseas use",
+    "caveats": "Approval required before purchase. Specific limb, vision, burn, ALS or joint criteria; 10% alone insufficient.",
+    "last_verified": "2026-10-15",
+    "source_type": "Primary provider",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran",
+      "general"
+    ]
+  },
+  {
+    "id": "benefit-18",
+    "title": "Specially Adapted Housing (SAH)",
+    "category": "Housing",
+    "eligibility": "Veterans or service members with specified service-connected impairments",
+    "description": "A VA grant may help you build, buy, or change a permanent home to make it accessible for certain severe service-connected disabilities.",
+    "url": "https://www.va.gov/housing-assistance/disability-housing-grants/",
+    "geographic_scope": "United States; overseas application requires confirmation",
+    "caveats": "Specific disability and ownership criteria; no blanket eligibility at 10% or 30%.",
+    "last_verified": "2026-10-15",
+    "source_type": "Primary provider",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran",
+      "general"
+    ]
+  },
+  {
+    "id": "benefit-19",
+    "title": "Special Home Adaptation (SHA)",
+    "category": "Housing",
+    "eligibility": "Veterans or service members with specified service-connected impairments",
+    "description": "A VA grant may help pay for home changes needed for certain qualifying service-connected disabilities.",
+    "url": "https://www.va.gov/housing-assistance/disability-housing-grants/",
+    "geographic_scope": "United States; overseas application requires confirmation",
+    "caveats": "Qualifying disabilities and ownership rules apply.",
+    "last_verified": "2026-10-15",
+    "source_type": "Primary provider",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran",
+      "general"
+    ]
+  },
+  {
+    "id": "benefit-20",
+    "title": "Temporary Residence Adaptation (TRA)",
+    "category": "Housing",
+    "eligibility": "SAH/SHA-eligible people temporarily living with family",
+    "description": "If you qualify for an adapted-housing grant but temporarily live in a family member\u2019s home, VA may help pay for needed changes there.",
+    "url": "https://www.va.gov/housing-assistance/disability-housing-grants/",
+    "geographic_scope": "United States; overseas application requires confirmation",
+    "caveats": "Must meet SAH or SHA eligibility; separate caps apply.",
+    "last_verified": "2026-10-15",
+    "source_type": "Primary provider",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran",
+      "general"
+    ]
+  },
+  {
+    "id": "benefit-21",
+    "title": "Home Improvements and Structural Alterations (HISA)",
+    "category": "Housing",
+    "eligibility": "Eligible veterans/service members with prescribed medical access needs",
+    "description": "VA may help pay for medically necessary home changes, such as improving access to entrances, bathrooms, or essential facilities.",
+    "url": "https://www.prosthetics.va.gov/psas/HISA2.asp",
+    "geographic_scope": "United States; confirm overseas applicability",
+    "caveats": "Medical justification and application required; lifetime limits and exclusions apply.",
+    "last_verified": "2026-10-15",
+    "source_type": "Primary provider",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran",
+      "general"
+    ]
+  },
+  {
+    "id": "benefit-22",
+    "title": "VA home loan funding-fee exemption",
+    "category": "Housing",
+    "eligibility": "VA compensation recipients or eligible recipients paid active/retired pay instead; other exceptions",
+    "description": "Eligible borrowers can skip the VA home-loan funding fee. This does not remove other closing costs or the need to qualify for the loan.",
+    "url": "https://www.va.gov/housing-assistance/home-loans/funding-fee-and-closing-costs/",
+    "geographic_scope": "United States / eligible territories",
+    "caveats": "Pre-discharge proposed rating must precede closing. Loan underwriting, COE and other costs still apply.",
+    "last_verified": "2026-10-15",
+    "source_type": "Primary provider",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran",
+      "general"
+    ]
+  },
+  {
+    "id": "benefit-23",
+    "title": "VA-backed home loans",
+    "category": "Housing",
+    "eligibility": "Qualifying service members and veterans with COE",
+    "description": "Home financing that may avoid down payment and monthly mortgage insurance.",
+    "url": "https://www.va.gov/housing-assistance/",
+    "geographic_scope": "United States / eligible territories",
+    "caveats": "Credit, income, occupancy, service and discharge requirements; not a cash grant.",
+    "last_verified": "2026-10-15",
+    "source_type": "Primary provider",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran",
+      "general"
+    ]
+  },
+  {
+    "id": "benefit-24",
+    "title": "TRICARE medical retirement",
+    "category": "Health & recovery",
+    "eligibility": "Members on Temporary or Permanent Disability Retirement List",
+    "description": "If the military medically retires you, you and eligible family members may have retiree TRICARE health coverage options.",
+    "url": "https://www.tricare.mil/LifeEvents/Retiring/MedicalRetirement",
+    "geographic_scope": "United States / overseas plan rules",
+    "caveats": "Enroll within 90 days of retirement. DoD disability rating differs from VA rating; 30% VA alone does not establish retirement.",
+    "last_verified": "2026-10-15",
+    "source_type": "Primary provider",
+    "statuses": [
+      "retired"
+    ]
+  },
+  {
+    "id": "benefit-25",
+    "title": "Foreign Medical Program",
+    "category": "Health & recovery",
+    "eligibility": "Veterans with VA-rated service-connected conditions abroad",
+    "description": "While living or traveling abroad, VA may pay for qualifying treatment related to your service-connected conditions. It is not full overseas health insurance.",
+    "url": "https://www.va.gov/resources/getting-care-through-the-foreign-medical-program/",
+    "geographic_scope": "Overseas",
+    "caveats": "Not comprehensive overseas health insurance; unrelated care and travel costs generally excluded.",
+    "last_verified": "2026-10-15",
+    "source_type": "Primary provider",
+    "statuses": [
+      "retired",
+      "veteran",
+      "general"
+    ]
+  },
+  {
+    "id": "benefit-26",
+    "title": "VA travel reimbursement",
+    "category": "Health & recovery",
+    "eligibility": "Eligible VA patients; includes service-connected care below 30%",
+    "description": "VA may repay some travel costs for qualifying medical appointments. Eligibility depends on your rating, the treatment, and other rules.",
+    "url": "https://www.va.gov/health-care/file-travel-pay-reimbursement/",
+    "geographic_scope": "United States / authorized care",
+    "caveats": "30% VA can qualify on broader grounds; below 30% may qualify for service-connected treatment. Filing and deductible rules apply.",
+    "last_verified": "2026-10-15",
+    "source_type": "Primary provider",
+    "statuses": [
+      "retired",
+      "veteran",
+      "general"
+    ]
+  },
+  {
+    "id": "benefit-27",
+    "title": "Wounded Warrior Project registration",
+    "category": "Health & recovery",
+    "eligibility": "Post-9/11 service members in good standing and honorably discharged veterans; other discharges reviewed case by case. Physical or combat injury is not required by the current registration FAQ.",
+    "description": "Free connection events and wellness, benefits and transition support help you find useful services and community.",
+    "url": "https://www.woundedwarriorproject.org/programs/wwp-registration",
+    "geographic_scope": "United States; ask about overseas access",
+    "caveats": "Registration verification applies; individual programs can add clinical criteria. In-person and virtual options vary.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran",
+      "general"
+    ]
+  },
+  {
+    "id": "benefit-28",
+    "title": "VA benefit tax exclusions",
+    "category": "Taxes & legal",
+    "eligibility": "Recipients of qualifying VA benefits",
+    "description": "VA disability compensation and qualifying education or adaptation benefits are excluded from federal taxable income.",
+    "url": "https://www.irs.gov/individuals/veterans-tax-information-and-services",
+    "geographic_scope": "US tax filers worldwide",
+    "caveats": "Military retirement pay has separate tax treatment; state rules vary.",
+    "last_verified": "2026-10-15",
+    "source_type": "Primary provider",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran",
+      "general"
+    ]
+  },
+  {
+    "id": "benefit-29",
+    "title": "Military PCS moving-expense deduction",
+    "category": "Taxes & legal",
+    "eligibility": "Active-duty members moving under qualifying military orders",
+    "description": "Deduction for eligible unreimbursed moving costs.",
+    "url": "https://www.irs.gov/taxtopics/tc455",
+    "geographic_scope": "US tax filers; domestic / overseas moves",
+    "caveats": "No double deduction for government-covered expenses; timing and PCS rules apply.",
+    "last_verified": "2026-10-15",
+    "source_type": "Primary provider",
+    "statuses": [
+      "active"
+    ]
+  },
+  {
+    "id": "benefit-30",
+    "title": "MilTax",
+    "category": "Taxes & legal",
+    "eligibility": "Eligible military members and families; recently separated/retired within 365 days",
+    "description": "Free military-focused tax preparation software and consultant support.",
+    "url": "https://www.militaryonesource.mil/benefits/miltax-free-tax-services/",
+    "geographic_scope": "US tax filers worldwide",
+    "caveats": "Eligibility and annual software availability apply; verify current supported state-return count.",
+    "last_verified": "2026-10-15",
+    "source_type": "Primary provider",
+    "statuses": [
+      "active",
+      "retired"
+    ]
+  },
+  {
+    "id": "benefit-31",
+    "title": "SCRA interest-rate and lease protections",
+    "category": "Taxes & legal",
+    "eligibility": "Qualifying active-duty service members",
+    "description": "Military-service legal protections may lower interest on qualifying debt you had before service or let you end certain leases after eligible orders.",
+    "url": "https://www.consumerfinance.gov/consumer-tools/military-financial-lifecycle/the-servicemembers-civil-relief-act-scra/",
+    "geographic_scope": "United States / applicable US obligations",
+    "caveats": "Written notice, orders and deadlines may apply; not a general 6% cap on new loans.",
+    "last_verified": "2026-10-15",
+    "source_type": "Primary provider",
+    "statuses": [
+      "active"
+    ]
+  },
+  {
+    "id": "benefit-32",
+    "title": "National parks military annual pass",
+    "category": "Leisure & tickets",
+    "eligibility": "Current US military and dependents",
+    "description": "Free annual pass covering entrance and standard day-use fees at participating federal lands.",
+    "url": "https://www.nps.gov/planyourvisit/veterans-and-gold-star-families-free-access.htm",
+    "geographic_scope": "United States",
+    "caveats": "Proof required; camping, reservations and concession fees generally not covered.",
+    "last_verified": "2026-10-15",
+    "source_type": "Primary provider",
+    "statuses": [
+      "active"
+    ]
+  },
+  {
+    "id": "benefit-33",
+    "title": "National parks veteran lifetime pass",
+    "category": "Leisure & tickets",
+    "eligibility": "US veterans with accepted proof",
+    "description": "Lifetime entrance and standard day-use access to participating federal lands.",
+    "url": "https://www.nps.gov/planyourvisit/veterans-and-gold-star-families-free-access.htm",
+    "geographic_scope": "United States",
+    "caveats": "Accepted identity proof required. Source does not expressly resolve dishonorable eligibility; mark provider verification required.",
+    "last_verified": "2026-10-15",
+    "source_type": "Primary provider",
+    "statuses": [
+      "retired",
+      "veteran",
+      "general"
+    ]
+  },
+  {
+    "id": "benefit-34",
+    "title": "Blue Star Museums",
+    "category": "Leisure & tickets",
+    "eligibility": "Active duty; Guard/Reserve; eligible families",
+    "description": "Seasonal free admission for ID holder and up to five family members at participating museums.",
+    "url": "https://www.arts.gov/initiatives/blue-star-museums/frequently-asked-questions",
+    "geographic_scope": "United States",
+    "caveats": "Armed Forces Day through Labor Day; 2026 season has ended. Retirees/veterans not included solely by that status.",
+    "last_verified": "2026-10-15",
+    "source_type": "Primary provider",
+    "statuses": [
+      "active"
+    ]
+  },
+  {
+    "id": "benefit-35",
+    "title": "Vet Tix",
+    "category": "Leisure & tickets",
+    "eligibility": "Currently serving military; honorably discharged veterans and retirees; eligible survivors",
+    "description": "Donated event tickets through verified membership.",
+    "url": "https://www.vettix.org/cfc",
+    "geographic_scope": "United States / event dependent",
+    "caveats": "Delivery fees, limited inventory and lotteries may apply. Dishonorable veterans excluded by stated honorable-service eligibility.",
+    "last_verified": "2026-10-15",
+    "source_type": "Primary provider",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran"
+    ]
+  },
+  {
+    "id": "benefit-36",
+    "title": "Space-Available military travel",
+    "category": "Travel & overseas",
+    "eligibility": "Eligible active duty on leave; military retirees; certain permanently totally disabled veterans",
+    "description": "You may be able to use an empty seat on a military flight. Availability and your travel category decide whether you can fly; a seat is never guaranteed.",
+    "url": "https://www.amc.af.mil/AMC-Travel-Site/AMC-Space-Available-Travel-Page/",
+    "geographic_scope": "United States / overseas depending eligibility",
+    "caveats": "Seats never guaranteed. 10% or 30% VA alone insufficient; nonretired total-disability travel has destination restrictions. Check terminal.",
+    "last_verified": "2026-10-15",
+    "source_type": "Primary provider",
+    "statuses": [
+      "active",
+      "retired"
+    ]
+  },
+  {
+    "id": "benefit-37",
+    "title": "American Airlines military baggage",
+    "category": "Travel & overseas",
+    "eligibility": "Active US military; certain dependents on orders",
+    "description": "Qualifying free checked-bag allowance on eligible American itineraries.",
+    "url": "https://www.aa.com/web/i18n/customer-service/programs-products/military-benefits.html",
+    "geographic_scope": "Domestic / international eligible American flights",
+    "caveats": "ID, orders, itinerary and weight limits apply. Codeshare restrictions; ordinary veteran status alone insufficient.",
+    "last_verified": "2026-10-15",
+    "source_type": "Primary provider",
+    "statuses": [
+      "active"
+    ]
+  },
+  {
+    "id": "benefit-38",
+    "title": "American Airlines Group 1 boarding",
+    "category": "Travel & overseas",
+    "eligibility": "Active duty with military ID",
+    "description": "Board in Group 1 under American\u2019s military policy.",
+    "url": "https://www.aa.com/web/i18n/customer-service/programs-products/military-benefits.html",
+    "geographic_scope": "American Airlines routes",
+    "caveats": "Active duty status required; not a universal veteran or all-airlines entitlement.",
+    "last_verified": "2026-10-15",
+    "source_type": "Primary provider",
+    "statuses": [
+      "active"
+    ]
+  },
+  {
+    "id": "benefit-39",
+    "title": "Home Depot military discount",
+    "category": "Shopping & discounts",
+    "eligibility": "Active service members, veterans and spouses with verification",
+    "description": "10% off eligible purchases through verified account.",
+    "url": "https://www.homedepot.com/c/military",
+    "geographic_scope": "United States / eligible APO-FPO delivery",
+    "caveats": "Product exclusions and verification apply; dishonorable-discharge acceptance not established by reviewed page.",
+    "last_verified": "2026-10-15",
+    "source_type": "Primary provider",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran",
+      "general"
+    ],
+    "verification": "ID.me",
+    "verification_url": "https://www.homedepot.com/c/military"
+  },
+  {
+    "id": "benefit-40",
+    "title": "Lowe\u2019s military discount",
+    "category": "Shopping & discounts",
+    "eligibility": "Eligible current/former service members and verified spouses",
+    "description": "10% off eligible full-price products.",
+    "url": "https://www.lowes.com/l/about/honor-our-military",
+    "geographic_scope": "United States",
+    "caveats": "Dishonorable discharges excluded. Sale items, major appliances, many commodities and services excluded.",
+    "last_verified": "2026-10-15",
+    "source_type": "Primary provider",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran",
+      "general"
+    ],
+    "verification": "ID.me",
+    "verification_url": "https://www.lowes.com/military/validation"
+  },
+  {
+    "id": "benefit-41",
+    "title": "Commissary, exchange and selected MWR privileges",
+    "category": "Shopping & discounts",
+    "eligibility": "Active duty; retirees; eligible service-connected disabled veterans",
+    "description": "Access to eligible military retail facilities, including certain VA-rated veterans.",
+    "url": "https://benefits.va.gov/BENEFITS/derivative_sc.asp",
+    "geographic_scope": "United States / overseas subject to host-nation rules",
+    "caveats": "Base access, VHIC/ID and overseas agreements apply; retail privileges do not mean every MWR service is available.",
+    "last_verified": "2026-10-15",
+    "source_type": "Primary provider",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran",
+      "general"
+    ]
+  },
+  {
+    "id": "benefit-42",
+    "title": "Discharge upgrade and VA character-of-discharge review",
+    "category": "Discharge & access",
+    "eligibility": "Former members with adverse discharges",
+    "description": "Routes to request review of discharge status or eligibility for VA purposes.",
+    "url": "https://www.va.gov/discharge-upgrade-instructions/request-dd214",
+    "geographic_scope": "United States / overseas applicants",
+    "caveats": "OTH is different from dishonorable. VA review does not change military discharge; statutory bars can remain. Separate honorable service periods may qualify.",
+    "last_verified": "2026-10-15",
+    "source_type": "Primary provider",
+    "statuses": [
+      "general"
+    ]
+  },
+  {
+    "id": "benefit-43",
+    "title": "Texas disabled-veteran partial property-tax exemption",
+    "category": "Taxes & legal",
+    "eligibility": "Qualifying disabled veterans with VA rating 10%+ and eligible Texas property",
+    "description": "A qualifying VA rating can reduce the taxable value of eligible Texas property. This is a reduction in the value used to calculate tax, not a cash payment.",
+    "url": "https://comptroller.texas.gov/forms/50-135.pdf",
+    "geographic_scope": "Texas",
+    "caveats": "This reduces assessed value, not tax owed dollar for dollar. Apply to county appraisal district; ownership and other requirements apply.",
+    "last_verified": "2026-10-15",
+    "source_type": "Primary provider",
+    "statuses": [
+      "retired",
+      "veteran",
+      "general"
+    ]
+  },
+  {
+    "id": "benefit-44",
+    "title": "Texas 100% disabled-veteran homestead exemption",
+    "category": "Taxes & legal",
+    "eligibility": "Qualifying Texas homestead owners with 100% VA disability compensation and 100% rating or individual unemployability",
+    "description": "Potential full exemption on qualifying residence homestead.",
+    "url": "https://comptroller.texas.gov/taxes/property-tax/exemptions/",
+    "geographic_scope": "Texas",
+    "caveats": "10% or 30% alone does not qualify. Homestead and documentation requirements apply.",
+    "last_verified": "2026-10-15",
+    "source_type": "Primary provider",
+    "statuses": [
+      "retired",
+      "veteran",
+      "general"
+    ]
+  },
+  {
+    "id": "benefit-45",
+    "title": "Texas Hazlewood Act",
+    "category": "Education & careers",
+    "eligibility": "Qualifying Texas-connected veterans with honorable/general under honorable discharge",
+    "description": "Eligible Texas-connected veterans can receive up to 150 credit hours of tuition and certain fee exemptions at Texas public colleges.",
+    "url": "https://tmd.texas.gov/hazlewood-act",
+    "geographic_scope": "Texas",
+    "caveats": "Texas connection at service entry; 181 active-duty days excluding training; current Texas residence and federal tuition-benefit coordination apply. School decides; current Texas domicile alone may not establish entry connection.",
+    "last_verified": "2026-10-15",
+    "source_type": "Primary provider",
+    "statuses": [
+      "retired",
+      "veteran",
+      "general"
+    ]
+  },
+  {
+    "id": "benefit-46",
+    "title": "Maryland disabled-veteran property-tax exemption",
+    "category": "Taxes & legal",
+    "eligibility": "Qualifying owner-occupants with 100% VA permanent total service-connected disability or qualifying permanent unemployability",
+    "description": "Potential exemption on principal dwelling and qualifying surrounding property.",
+    "url": "https://dat.maryland.gov/realproperty/Pages/Property-Tax-Exemptions.aspx",
+    "geographic_scope": "Maryland",
+    "caveats": "Maryland driver\u2019s license alone does not establish entitlement. 10% or 30% alone insufficient; final rating packet and ownership/residency proof required.",
+    "last_verified": "2026-10-15",
+    "source_type": "Primary provider",
+    "statuses": [
+      "retired",
+      "veteran",
+      "general"
+    ]
+  },
+  {
+    "id": "benefit-47",
+    "title": "Maryland military retirement income subtraction",
+    "category": "Taxes & legal",
+    "eligibility": "Eligible recipients of military retirement income filing Maryland taxes",
+    "description": "Potential Maryland subtraction for part of qualifying military retirement income.",
+    "url": "https://veterans.maryland.gov/benefits-services/tax-exemptions",
+    "geographic_scope": "Maryland",
+    "caveats": "Filing status, age, tax-year rules and residency matter. Texas domicile and Maryland driver\u2019s license do not by themselves establish Maryland tax liability.",
+    "last_verified": "2026-10-15",
+    "source_type": "Primary provider",
+    "statuses": [
+      "retired",
+      "veteran",
+      "general"
+    ]
+  },
+  {
+    "id": "benefit-48",
+    "title": "All-state and territory veterans agencies",
+    "category": "State & local",
+    "eligibility": "Veterans seeking state-specific benefits",
+    "description": "Official directory for local tax, tuition, employment, license, recreation and assistance programs.",
+    "url": "https://www.va.gov/Statedva.htm",
+    "geographic_scope": "All 50 states / DC / territories",
+    "caveats": "Directory gateway, not a verified catalog of every state benefit. Residency, property location and rating thresholds vary.",
+    "last_verified": "2026-10-15",
+    "source_type": "Primary provider",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran",
+      "general"
+    ]
+  },
+  {
+    "id": "benefit-49",
+    "title": "NASDVA state benefits directory",
+    "category": "State & local",
+    "eligibility": "Veterans seeking state agency resources",
+    "description": "Direct state/territory agency links and federal resources.",
+    "url": "https://nasdva.us/resources/",
+    "geographic_scope": "All 50 states / DC / territories",
+    "caveats": "State agencies maintain individual benefit rules; verify specific program eligibility.",
+    "last_verified": "2026-10-15",
+    "source_type": "Primary provider",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran",
+      "general"
+    ]
+  },
+  {
+    "id": "extra-01",
+    "title": "Military Tuition Assistance",
+    "category": "Education & careers",
+    "eligibility": "Eligible active-duty service members",
+    "description": "Branch-funded assistance for voluntary off-duty education; generally up to $250 per semester credit hour.",
+    "url": "https://www.militaryonesource.mil/education-employment/for-service-members/money-for-higher-education/",
+    "geographic_scope": "United States / approved overseas and online programs",
+    "caveats": "Branch-specific annual limits, approvals, academic and service-obligation rules apply; request approval before enrollment.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider",
+    "statuses": [
+      "active"
+    ]
+  },
+  {
+    "id": "extra-02",
+    "title": "DANTES-funded CLEP exams",
+    "category": "Education & careers",
+    "eligibility": "Eligible actively serving military, Guard and Reserve with required ID",
+    "description": "First-attempt CLEP exam funding to earn college credit for prior knowledge.",
+    "url": "https://clep.collegeboard.org/clep-military-benefits",
+    "geographic_scope": "United States / overseas test centers and remote options",
+    "caveats": "College decides credit acceptance. Retirees/separated veterans generally not DANTES-funded; some test centers charge administration fees.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider",
+    "statuses": [
+      "active"
+    ]
+  },
+  {
+    "id": "extra-03",
+    "title": "DANTES-funded DSST exams",
+    "category": "Education & careers",
+    "eligibility": "Eligible actively serving military, Guard and Reserve with CAC",
+    "description": "First-attempt DSST exam funding for college credit.",
+    "url": "https://www.dantes.mil/dsst/",
+    "geographic_scope": "United States / overseas / remote",
+    "caveats": "Retests self-funded; college decides credit. Administration fees depend on test center. Retirees and separated veterans excluded from ordinary DANTES funding.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider",
+    "statuses": [
+      "active"
+    ]
+  },
+  {
+    "id": "extra-04",
+    "title": "VA Work Study",
+    "category": "Education & careers",
+    "eligibility": "Students using approved VA education benefits enrolled at least 75%",
+    "description": "Paid part-time work at approved veteran-related sites while attending school.",
+    "url": "https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/work-study/",
+    "geographic_scope": "United States / approved sites",
+    "caveats": "Approved contract/site required; benefit eligibility must continue. Hours and wages follow VA rules; not automatic employment.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider",
+    "statuses": [
+      "veteran"
+    ]
+  },
+  {
+    "id": "extra-05",
+    "title": "Tillman Scholars",
+    "category": "Education & careers",
+    "eligibility": "Military veterans, active duty and eligible spouses pursuing full-time bachelor\u2019s, graduate or professional study",
+    "description": "Competitive need-based scholarship plus leadership and career support.",
+    "url": "https://pattillmanfoundation.org/apply/",
+    "geographic_scope": "United States",
+    "caveats": "2026 class applications closed. Provider lists December 1 annual opening; check upcoming cycle. No associate degrees/certificates; US-based accredited institution required.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider",
+    "statuses": [
+      "active",
+      "veteran",
+      "retired"
+    ]
+  },
+  {
+    "id": "extra-06",
+    "title": "SVA John Edelman Scholarship",
+    "category": "Education & careers",
+    "eligibility": "Qualifying student veterans pursuing mental-health counseling careers",
+    "description": "Competitive scholarship for student veterans preparing mental-health careers.",
+    "url": "https://studentveterans.org/programs-events/scholarships/",
+    "geographic_scope": "United States",
+    "caveats": "2026 application window March 31\u2013May 1 has closed; monitor future cycle and detailed degree requirements.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider",
+    "statuses": [
+      "veteran"
+    ]
+  },
+  {
+    "id": "extra-08",
+    "title": "SVA RTX Patriot Scholarship",
+    "category": "Education & careers",
+    "eligibility": "Qualifying US Army student veterans",
+    "description": "Competitive scholarship for Army student veterans demonstrating leadership and community engagement.",
+    "url": "https://studentveterans.org/programs-events/scholarships/",
+    "geographic_scope": "United States",
+    "caveats": "2026 window closed; Army-specific, degree and other detailed application criteria apply.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider",
+    "statuses": [
+      "veteran"
+    ]
+  },
+  {
+    "id": "extra-09",
+    "title": "Amtrak military and veteran discount",
+    "category": "Travel & overseas",
+    "eligibility": "US active military, veterans and eligible dependents/spouses",
+    "description": "10% discount on qualifying regular rail fares.",
+    "url": "https://www.amtrak.com/active-military-and-veterans-discount",
+    "geographic_scope": "United States",
+    "caveats": "Coach restrictions, proof and fare exclusions apply; not combinable with other discounts; some services/Canadian segments excluded.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider",
+    "statuses": [
+      "active",
+      "veteran",
+      "retired"
+    ]
+  },
+  {
+    "id": "extra-10",
+    "title": "Apple Veterans and Military Purchase Program",
+    "category": "Shopping & discounts",
+    "eligibility": "Current and veteran US military, Guard/Reserve and eligible household family",
+    "description": "10% discount through Apple\u2019s verified military store.",
+    "url": "https://www.apple.com/shop/browse/home/veterans_military",
+    "geographic_scope": "United States",
+    "caveats": "ID.me verification and product/quantity/payment terms apply. Not every Apple offer or installment plan combines.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider",
+    "verification": "ID.me",
+    "verification_url": "https://www.apple.com/shop/browse/home/veterans_military",
+    "statuses": [
+      "active",
+      "veteran",
+      "retired"
+    ]
+  },
+  {
+    "id": "extra-11",
+    "title": "Under Armour military discount",
+    "category": "Shopping & discounts",
+    "eligibility": "Active duty, retirees, veterans and eligible military families",
+    "description": "20% on qualifying UA.com/app/Brand House purchases; Factory House policy lists 10%.",
+    "url": "https://www.underarmour.com/en-us/t/troop-id-instructions.html",
+    "geographic_scope": "United States",
+    "caveats": "ID.me verification. Gift cards and combining with promotional codes/sitewide promotions excluded; current terms govern.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider",
+    "verification": "ID.me",
+    "verification_url": "https://www.underarmour.com/en-us/t/troop-id-instructions.html",
+    "statuses": [
+      "active",
+      "veteran",
+      "retired"
+    ]
+  },
+  {
+    "id": "extra-12",
+    "title": "Nike military discount",
+    "category": "Shopping & discounts",
+    "eligibility": "Verified eligible US military customers",
+    "description": "10% single-use promotional discount on eligible products.",
+    "url": "https://www.nike.com/help/a/military-discount/",
+    "geographic_scope": "United States",
+    "caveats": "Member login and verification; first $500 of eligible purchase; exclusions apply. New code generally every seven days; issued code expires in two weeks.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider",
+    "statuses": [
+      "active",
+      "veteran",
+      "retired"
+    ]
+  },
+  {
+    "id": "extra-13",
+    "title": "Microsoft Store military discount",
+    "category": "Shopping & discounts",
+    "eligibility": "Active, former and retired military personnel and families",
+    "description": "Up to 10% off select Microsoft Store products.",
+    "url": "https://www.microsoft.com/en-us/store/b/military",
+    "geographic_scope": "United States / eligible APO-FPO delivery",
+    "caveats": "Eligible products only; better sale price may replace discount. Does not establish a blanket software or Microsoft 365 subscription discount.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider",
+    "statuses": [
+      "active",
+      "veteran",
+      "retired"
+    ]
+  },
+  {
+    "id": "extra-14",
+    "title": "Verizon military and veteran mobile discount",
+    "category": "Shopping & discounts",
+    "eligibility": "US active duty, retirees, veterans, eligible Guard/Reserve and certain survivors",
+    "description": "Recurring discount on qualifying mobile plans after verification.",
+    "url": "https://www.verizon.com/support/military-veterans-faqs/",
+    "geographic_scope": "United States",
+    "caveats": "Plan/line and account rules determine amount. Cannot combine with some other occupational/student discounts; begins after verification.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider",
+    "verification": "ID.me",
+    "verification_url": "https://www.verizon.com/support/military-veterans-faqs/",
+    "statuses": [
+      "active",
+      "veteran",
+      "retired"
+    ]
+  },
+  {
+    "id": "extra-15",
+    "title": "Military TSA PreCheck access",
+    "category": "Travel & overseas",
+    "eligibility": "Eligible uniformed service members including active duty, Guard and Reserve",
+    "description": "Use DoD ID as Known Traveler Number for eligible TSA PreCheck screening.",
+    "url": "https://soldierforlife.army.mil/documents/army%20retirement/army%20echoes/echoes%20past%20isssues/2024/20240501-ArmyEchoes.pdf",
+    "geographic_scope": "US TSA checkpoints",
+    "caveats": "Benefit ends when military eligibility ends; retirees/veterans generally enroll separately. Boarding pass must show PreCheck. Check current TSA military enrollment instructions.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider",
+    "statuses": [
+      "active"
+    ]
+  },
+  {
+    "id": "extra-16",
+    "title": "TSA PreCheck military-spouse enrollment discount",
+    "category": "Travel & overseas",
+    "eligibility": "Spouses with valid USID showing Spouse and Active Duty/Reserve/Guard sponsor",
+    "description": "IDEMIA offers $25 off qualifying PreCheck enrollment or renewal.",
+    "url": "https://tsaenrollmentbyidemia.tsa.dhs.gov/help",
+    "geographic_scope": "US enrollment centers / eligible renewals",
+    "caveats": "Valid qualifying USID required; enrollment-vendor procedures apply. Not free automatic PreCheck and not a retiree-spouse entitlement.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider",
+    "statuses": [
+      "active"
+    ]
+  },
+  {
+    "id": "parking-1",
+    "title": "DFW Airport military parking fee waiver",
+    "category": "Parking & transportation",
+    "eligibility": "Qualifying DV plates from any US state or listed Texas military award plates",
+    "description": "Eligible vehicles can park without the normal airport parking charge.",
+    "url": "https://www.dfwairport.com/park/military/",
+    "geographic_scope": "Texas / DFW Airport",
+    "caveats": "Mounted plates and vehicle required. Valet excluded; 90 consecutive day maximum. Disable DFW TollTag use 48 hours before travel, pull entry ticket, validate via exit intercom. Accessible spaces require ISA.",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran",
+      "general"
+    ],
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider"
+  },
+  {
+    "id": "parking-2",
+    "title": "Texas accessible parking meter fee exemption",
+    "category": "Parking & transportation",
+    "eligibility": "Valid disability placard or plate with International Symbol of Access",
+    "description": "Government meter fee exemption with qualifying disability credentials.",
+    "url": "https://prod-origin.txdmv.gov/motorists/disabled-parking-placards-plates",
+    "geographic_scope": "Texas",
+    "caveats": "Time limits apply unless local ordinance extends them. DV plate without ISA does not permit accessible-space parking. Mobility criteria apply separately from VA percentage; check local rules.",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran",
+      "general"
+    ],
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider"
+  },
+  {
+    "id": "parking-3",
+    "title": "TxDOT veteran toll waiver",
+    "category": "Parking & transportation",
+    "eligibility": "Qualifying Texas specialty plates on registered vehicle",
+    "description": "Toll waiver on the specific participating TxDOT roads.",
+    "url": "https://www.txdot.gov/discover/toll-roads-managed-lanes/paying-tolls/txdot-veterans-discount-program.html",
+    "geographic_scope": "Texas",
+    "caveats": "Other operators have separate rules; not a statewide toll waiver. Check route and enrollment before driving. DV plate generally requires VA 50% or 40% for lower-extremity amputation.",
+    "statuses": [
+      "retired",
+      "veteran",
+      "general"
+    ],
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider"
+  },
+  {
+    "id": "parking-4",
+    "title": "Texas disabled-veteran hunting and fishing package",
+    "category": "Leisure & tickets",
+    "eligibility": "VA-compensated veteran with 50%+ disability or qualifying loss of use of foot/leg",
+    "description": "Free Super Combo package for eligible residents and nonresidents.",
+    "url": "https://tpwd.texas.gov/regulations/outdoor-annual/licenses/combination-hunting-fishing/disabled-veteran-super-combo-hunting-and-all-water-fishing-package",
+    "geographic_scope": "Texas",
+    "caveats": "Current proof required in person. Federal duck stamp excluded. Hunting education and seasons apply. VA 10% or 30% alone insufficient.",
+    "statuses": [
+      "retired",
+      "veteran",
+      "general"
+    ],
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider"
+  },
+  {
+    "id": "parking-5",
+    "title": "Texas active-duty hunting and fishing package",
+    "category": "Leisure & tickets",
+    "eligibility": "Qualifying Texas resident on full-time active military service",
+    "description": "Free resident active-military Super Combo package.",
+    "url": "https://tpwd.texas.gov/regulations/outdoor-annual/licenses/faqs",
+    "geographic_scope": "Texas",
+    "caveats": "Show required military records for qualifying home of record or duty station. Federal duck stamp and hunting rules still apply.",
+    "statuses": [
+      "active"
+    ],
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider"
+  },
+  {
+    "id": "parking-6",
+    "title": "National parks Access Pass",
+    "category": "Leisure & tickets",
+    "eligibility": "US citizen/resident with qualifying documented permanent disability",
+    "description": "Free lifetime recreation pass and some amenity discounts.",
+    "url": "https://www.nps.gov/subjects/accessibility/interagency-access-pass.htm",
+    "geographic_scope": "United States",
+    "caveats": "Disability must substantially limit major life activities; no 100% VA requirement. Site-specific discounts and processing/shipping charges may apply.",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran",
+      "general"
+    ],
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider"
+  },
+  {
+    "id": "state-al",
+    "title": "Disabled Military Veteran Appreciation fishing license",
+    "category": "Leisure & tickets",
+    "eligibility": "Alabama resident veteran with VA-certified disability of at least 20%.",
+    "description": "Reduced-fee annual freshwater or saltwater fishing licenses.",
+    "url": "https://www.outdooralabama.com/licenses/license-faqs",
+    "geographic_scope": "Alabama",
+    "caveats": "VA letter required; 10% alone is insufficient. Separate license and endorsement rules apply.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary state source",
+    "statuses": [
+      "veteran"
+    ]
+  },
+  {
+    "id": "state-ak",
+    "title": "Disabled veteran permanent hunting, fishing and trapping card",
+    "category": "Leisure & tickets",
+    "eligibility": "Alaska resident certified at least 50% disabled; physically present in Alaska to apply.",
+    "description": "Complimentary permanent identification card for hunting, sport fishing and trapping; king salmon and state waterfowl stamps waived.",
+    "url": "https://www.adfg.alaska.gov/index.cfm?adfg=license.veterans",
+    "geographic_scope": "Alaska",
+    "caveats": "Must maintain qualifying Alaska residency; harvest record and other species rules still apply.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary state source",
+    "statuses": [
+      "veteran"
+    ]
+  },
+  {
+    "id": "state-az",
+    "title": "Disabled veteran hunting and fishing combination license",
+    "category": "Leisure & tickets",
+    "eligibility": "Arizona resident for at least one year with permanent and total 100% service-connected disability.",
+    "description": "Free paper combination hunting and fishing license.",
+    "url": "https://www.azgfd.com/hunting/hunt-draw-and-licenses/special-licenses-2/",
+    "geographic_scope": "Arizona",
+    "caveats": "100% individual unemployability alone is not qualifying for this license; proof and renewal conditions apply.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary state source",
+    "statuses": [
+      "veteran"
+    ]
+  },
+  {
+    "id": "state-ar",
+    "title": "Disabled military veteran lifetime combination license",
+    "category": "Leisure & tickets",
+    "eligibility": "One-year Arkansas resident with 70%+ service-connected disability, or 50%+ and a Purple Heart.",
+    "description": "$52.50 lifetime hunting/fishing combination with trout and state duck stamp privileges.",
+    "url": "https://www.agfc.com/resources/licensing/disability-mobility-impaired-65-plus-military-retiree-lifetime-licenses/",
+    "geographic_scope": "Arkansas",
+    "caveats": "VA certification required; federal duck stamp and other applicable regulations remain.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary state source",
+    "statuses": [
+      "veteran"
+    ]
+  },
+  {
+    "id": "state-ca",
+    "title": "Reduced-fee disabled veteran sport fishing license",
+    "category": "Leisure & tickets",
+    "eligibility": "Resident or nonresident honorably discharged veteran with at least 50% service-connected disability.",
+    "description": "Discounted 365-day sport fishing license after CDFW prequalification.",
+    "url": "https://wildlife.ca.gov/Licensing/Fishing/Disabled-Veteran",
+    "geographic_scope": "California",
+    "caveats": "Additional validations or species report cards may be required; not available solely for 10% or 30% ratings.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary state source",
+    "statuses": [
+      "veteran"
+    ]
+  },
+  {
+    "id": "state-co",
+    "title": "Veteran lifetime small game and fishing combination",
+    "category": "Leisure & tickets",
+    "eligibility": "Colorado resident veteran with 50%+ combined VA service-connected rating or a Purple Heart.",
+    "description": "Free lifetime small game hunting and fishing combination license; habitat stamp exemption.",
+    "url": "https://cpw.state.co.us/activities/hunting/hunters-disabilities",
+    "geographic_scope": "Colorado",
+    "caveats": "Maintain Colorado residency; hunter education is required for hunting privileges. Older materials saying 60% are outdated.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary state source",
+    "statuses": [
+      "veteran"
+    ]
+  },
+  {
+    "id": "state-ct",
+    "title": "Resident-rate outdoor licenses for active military",
+    "category": "Leisure & tickets",
+    "eligibility": "Active full-time member of the U.S. armed forces.",
+    "description": "Purchase Connecticut hunting, fishing or trapping licenses at resident fees.",
+    "url": "https://portal.ct.gov/deep/hunting/2026-connecticut-hunting-and-trapping-guide/hunting-and-trapping-licenses",
+    "geographic_scope": "Connecticut",
+    "caveats": "Carry proof of full-time membership; issued through DEEP or town clerks; other permit requirements apply.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary state source",
+    "statuses": [
+      "active"
+    ]
+  },
+  {
+    "id": "state-de",
+    "title": "Resident-rate licenses for stationed active military",
+    "category": "Leisure & tickets",
+    "eligibility": "Active-duty personnel stationed in Delaware.",
+    "description": "Purchase recreational licenses at the Delaware resident price.",
+    "url": "https://dnrec.delaware.gov/fish-wildlife/licenses/exemptions/",
+    "geographic_scope": "Delaware",
+    "caveats": "Apply through designated base recreation office or DNREC; application requires qualifying station/duty certification.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary state source",
+    "statuses": [
+      "active"
+    ]
+  },
+  {
+    "id": "state-fl",
+    "title": "Military Gold Sportsman's License",
+    "category": "Leisure & tickets",
+    "eligibility": "Active military stationed in Florida or Florida-resident active/retired military with qualifying ID.",
+    "description": "$20 annual license bundles hunting, fresh/saltwater fishing and many state permits.",
+    "url": "https://myfwc.com/license/recreational/military-gold/",
+    "geographic_scope": "Florida",
+    "caveats": "Family members do not qualify solely as dependents; excludes federal duck stamp, tarpon tags, alligator trapping and limited-entry permits.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary state source",
+    "statuses": [
+      "active",
+      "retired"
+    ]
+  },
+  {
+    "id": "state-ga",
+    "title": "One-time veterans hunting and fishing license",
+    "category": "Leisure & tickets",
+    "eligibility": "Georgia-resident veteran with 90+ days active federal duty and honorable discharge on or after July 1, 2005.",
+    "description": "One free year of full-privilege recreational hunting and fishing, issued once.",
+    "url": "https://georgiawildlife.com/index.php/licenses-permits-passes/veterans",
+    "geographic_scope": "Georgia",
+    "caveats": "Hunter education and annual no-cost records may apply; federal duck stamp and commercial licenses excluded.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary state source",
+    "statuses": [
+      "veteran"
+    ]
+  },
+  {
+    "id": "state-hi",
+    "title": "Resident hunting license rate for stationed military",
+    "category": "Leisure & tickets",
+    "eligibility": "Active-duty military and dependents stationed in Hawaii.",
+    "description": "Resident hunting-license price instead of the nonresident rate.",
+    "url": "https://dlnr.hawaii.gov/recreation/hunting/mammal/",
+    "geographic_scope": "Hawaii",
+    "caveats": "Hunter education, conservation stamp, tags and island-specific rules still apply.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary state source",
+    "statuses": [
+      "active"
+    ]
+  },
+  {
+    "id": "state-id",
+    "title": "Disabled veteran reduced license and tag fees",
+    "category": "Leisure & tickets",
+    "eligibility": "Resident or nonresident veteran with VA letter confirming at least 40% service-connected disability.",
+    "description": "Reduced license fees and discounted deer, elk, bear and turkey tags; resident DAV license listed at $5.",
+    "url": "https://idfg.idaho.gov/licenses/dav-programs",
+    "geographic_scope": "Idaho",
+    "caveats": "Nonresident discount tags have quotas; nonresident license and prices differ; permits cost extra.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary state source",
+    "statuses": [
+      "veteran"
+    ]
+  },
+  {
+    "id": "state-il",
+    "title": "Free disabled veteran hunting and fishing licenses",
+    "category": "Leisure & tickets",
+    "eligibility": "Veteran receiving 10%+ service-connected compensation or total disability pension.",
+    "description": "Free hunting and fishing license privilege through an IDVA disability affidavit.",
+    "url": "https://veterans.illinois.gov/services-benefits/permits.html",
+    "geographic_scope": "Illinois",
+    "caveats": "Contact an IDVA Veteran Service Office for privilege card; stamps, species permits and other rules may remain.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary state source",
+    "statuses": [
+      "veteran"
+    ]
+  },
+  {
+    "id": "state-in",
+    "title": "Disabled American Veteran hunting and fishing license",
+    "category": "Leisure & tickets",
+    "eligibility": "Indiana resident with military service and documented service-connected disability.",
+    "description": "$2.75 annual small-game hunting and fishing license; $27.50 ten-year option.",
+    "url": "https://www.in.gov/dnr/fish-and-wildlife/licenses-and-permits/disabled-veterans/",
+    "geographic_scope": "Indiana",
+    "caveats": "DNR approval and documentation required; deer, turkey and stamps excluded. Page does not specify a minimum percentage.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary state source",
+    "statuses": [
+      "veteran"
+    ]
+  },
+  {
+    "id": "state-ia",
+    "title": "Disabled veteran lifetime hunting and fishing",
+    "category": "Leisure & tickets",
+    "eligibility": "Iowa resident for at least 90 days, active federal service other than training, entitled to service-connected rating; qualifying DD214.",
+    "description": "Lifetime hunting and/or fishing license listed at $7 including administration.",
+    "url": "https://www.iowadnr.gov/media/5563/download?inline=",
+    "geographic_scope": "Iowa",
+    "caveats": "Application asks for honorable or general under honorable conditions DD214; hunter education and annual fish/wildlife fees still apply.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary state source",
+    "statuses": [
+      "veteran",
+      "general"
+    ]
+  },
+  {
+    "id": "state-ks",
+    "title": "Disabled veteran free permanent hunting and fishing licenses",
+    "category": "Leisure & tickets",
+    "eligibility": "Kansas resident with qualifying discharge and service-connected disability of at least 30%.",
+    "description": "Free permanent hunting and fishing licenses under KSA 32-934.",
+    "url": "https://ksoutdoors.com/License-Permits/Disabled-Veteran-Hunting-and-Fishing-Licenses",
+    "geographic_scope": "Kansas",
+    "caveats": "Program page says honorably discharged; state veterans guide also lists general under honorable conditions. Confirm discharge documentation with KDWP; hunter education may apply.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary state source",
+    "statuses": [
+      "veteran"
+    ]
+  },
+  {
+    "id": "state-ky",
+    "title": "Disabled Sportsman's License",
+    "category": "Leisure & tickets",
+    "eligibility": "Kentucky resident veteran at least 50% disabled due to service-connected disability.",
+    "description": "Special license includes combination hunting/fishing, deer, turkey, trout and state migratory bird/waterfowl permits.",
+    "url": "https://fw.ky.gov/Licenses/Pages/Resident-Senior-and-Disabled-Licenses.aspx",
+    "geographic_scope": "Kentucky",
+    "caveats": "Disability authorization required and expires after three years; annual license purchase, HIP survey and federal duck stamp still apply.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary state source",
+    "statuses": [
+      "veteran"
+    ]
+  },
+  {
+    "id": "state-la",
+    "title": "Disabled veteran driver's license fee exemption",
+    "category": "Parking & transportation",
+    "eligibility": "Honorably discharged veteran with 50%+ service-related disability receiving federal disability compensation, meeting statutory registration exclusion.",
+    "description": "Exemption from specified Louisiana driver's license or special identification-card issuance fees.",
+    "url": "https://www.legis.la.gov/Legis/Law.aspx?d=452291",
+    "geographic_scope": "Louisiana",
+    "caveats": "Statute excludes persons subject to specified sex-offender registration requirements and preserves fee under RS 32:668(B)(1)(a)(i); proof required.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary state source",
+    "statuses": [
+      "veteran"
+    ]
+  },
+  {
+    "id": "state-me",
+    "title": "Disabled veteran complimentary hunting and fishing",
+    "category": "Leisure & tickets",
+    "eligibility": "Honorably discharged veteran with 50%+ service-connected disability residing in Maine or qualifying reciprocal state.",
+    "description": "Complimentary lifetime hunting/fishing/trapping license with listed endorsements.",
+    "url": "https://www.maine.gov/ifw/fishing-boating/fishing/laws-rules/license-requirements.html",
+    "geographic_scope": "Maine",
+    "caveats": "Residency and reciprocity must continue; lottery applications still required. Verify home-state reciprocity with Maine.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary state source",
+    "statuses": [
+      "veteran"
+    ]
+  },
+  {
+    "id": "state-md",
+    "title": "Complimentary POW-DAV lifetime hunting license",
+    "category": "Leisure & tickets",
+    "eligibility": "Maryland resident with 100% service-connected disability, VA unemployability determination or former POW status.",
+    "description": "Complimentary lifetime hunting license including bow, muzzleloader, sika deer and furbearer privileges.",
+    "url": "https://dnr.maryland.gov/Pages/service_hunting_license.aspx",
+    "geographic_scope": "Maryland",
+    "caveats": "VA certification and application required; annual migratory bird stamps, federal duck stamp and harvest record remain where applicable.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary state source",
+    "statuses": [
+      "veteran"
+    ]
+  },
+  {
+    "id": "state-ma",
+    "title": "Local disabled veteran property-tax exemption",
+    "category": "Taxes & legal",
+    "eligibility": "Qualifying Massachusetts resident veteran with 10%+ service-connected disability, domicile and residency-history requirements.",
+    "description": "Base $400 local property-tax exemption tier; municipality may offer enhanced amount.",
+    "url": "https://www.mass.gov/info-details/local-property-tax-exemptions-for-veterans",
+    "geographic_scope": "Massachusetts",
+    "caveats": "Municipal adoption and local amount matter; occupy domicile July 1 and meet six-month pre-service or five-year residency route. Confirm with assessor.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary state source",
+    "statuses": [
+      "veteran"
+    ]
+  },
+  {
+    "id": "state-mi",
+    "title": "Free hunting licenses for disabled veterans",
+    "category": "Leisure & tickets",
+    "eligibility": "Michigan resident VA-rated permanently/totally disabled at 100% benefit rate, other than blindness, or individually unemployable.",
+    "description": "Free hunting licenses that do not require a separate application.",
+    "url": "https://www.michigan.gov/dnr/managing-resources/laws/regulations/waterfowl/license-types-and-fees",
+    "geographic_scope": "Michigan",
+    "caveats": "Carry VA proof when obtaining and using license; drawn/application licenses excluded; 10% alone does not qualify.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary state source",
+    "statuses": [
+      "veteran"
+    ]
+  },
+  {
+    "id": "state-mn",
+    "title": "Free annual state park vehicle permit",
+    "category": "Leisure & tickets",
+    "eligibility": "Minnesota resident veteran with any level of service-related disability.",
+    "description": "Free annual state park vehicle permit.",
+    "url": "https://www.dnr.state.mn.us/licenses/military/print.html",
+    "geographic_scope": "Minnesota",
+    "caveats": "Bring qualifying disability/veteran documentation; vehicle entrance permit does not itself waive camping charges.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary state source",
+    "statuses": [
+      "veteran"
+    ]
+  },
+  {
+    "id": "state-ms",
+    "title": "Disabled resident hunting and fishing license exemption",
+    "category": "Leisure & tickets",
+    "eligibility": "Mississippi resident with VA-certified 100% service-connected disability, or another listed qualifying disability.",
+    "description": "Exemption from purchasing hunting and fishing licenses.",
+    "url": "https://www.mdwfp.com/licenses-permits/permits-applications",
+    "geographic_scope": "Mississippi",
+    "caveats": "Carry proof of residency and disability unless optional exempt license purchased; check separate saltwater, stamp and activity rules.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary state source",
+    "statuses": [
+      "veteran"
+    ]
+  },
+  {
+    "id": "state-mo",
+    "title": "Disabled veteran hunting permit exemption",
+    "category": "Leisure & tickets",
+    "eligibility": "Honorably discharged resident or nonresident veteran with 60%+ service-related disability or former POW; qualifying military medical patients also eligible.",
+    "description": "Hunt qualifying wildlife without standard permit and receive resident permit prices where specified.",
+    "url": "https://mdc.mo.gov/permits/veteran-benefits",
+    "geographic_scope": "Missouri",
+    "caveats": "Carry certified VA eligibility or assignment orders; black bear, deer, elk, turkey, trapping, migratory bird and federal duck stamp exceptions apply.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary state source",
+    "statuses": [
+      "veteran",
+      "active"
+    ]
+  },
+  {
+    "id": "state-mt",
+    "state": "Montana",
+    "title": "Disabled Veteran Assistance Program",
+    "category": "Taxes & legal",
+    "eligibility": "100% service-connected disability; own and occupy primary home at least seven months; annual income limits.",
+    "description": "Reduces the home property-tax rate by 50%, 70%, 80%, or 100% according to income and marital status.",
+    "url": "https://revenue.mt.gov/property/property-tax-help/mdv",
+    "geographic_scope": "Montana",
+    "caveats": "10% or a prospective 30% medical retirement alone does not qualify. Income limits change by tax year; apply by April 15.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary state source",
+    "statuses": [
+      "veteran"
+    ]
+  },
+  {
+    "id": "state-ne",
+    "state": "Nebraska",
+    "title": "Veteran homestead exemption",
+    "category": "Taxes & legal",
+    "eligibility": "Qualifying homeowners including veterans totally disabled by service-connected injury or illness and certain VA-adapted-home recipients.",
+    "description": "Property-tax relief through Nebraska homestead exemption categories.",
+    "url": "https://veterans.nebraska.gov/homestead-exemption",
+    "geographic_scope": "Nebraska",
+    "caveats": "10% alone is not the totally disabled category. Category-specific disability, income and home-value rules require county assessor review.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary state source",
+    "statuses": [
+      "veteran"
+    ]
+  },
+  {
+    "id": "state-nv",
+    "state": "Nevada",
+    "title": "Veteran property or vehicle tax exemption",
+    "category": "Taxes & legal",
+    "eligibility": "Nevada resident with qualifying 90-day active service and honorable discharge/satisfactory service, or still serving; disabled tier requires permanent service-connected disability and honorable discharge.",
+    "description": "Apply an annual exemption to assessed property value or vehicle Governmental Services Tax; disability tiers begin at 60%.",
+    "url": "https://tax.nv.gov/faqs/veterans-tax-exemptions-faqs/",
+    "geographic_scope": "Nevada",
+    "caveats": "Not a blanket vehicle registration waiver. Dollar amounts are inflation adjusted; use only one exemption and one county.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary state source",
+    "statuses": [
+      "active",
+      "veteran"
+    ]
+  },
+  {
+    "id": "state-nh",
+    "state": "New Hampshire",
+    "title": "Veterans property-tax credit",
+    "category": "Taxes & legal",
+    "eligibility": "At least 90 days of active service in a qualifying war/conflict; continuing service or honorable discharge/separation; residency and property rules.",
+    "description": "A $50 standard annual residential property-tax credit, with a locally adopted amount from $51 to $750.",
+    "url": "https://gc.nh.gov/rsa/html/v/72/72-28.htm",
+    "geographic_scope": "New Hampshire",
+    "caveats": "Local amount varies. Separate all-veterans credit requires municipal adoption; consult assessor for residency and filing.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary state source",
+    "statuses": [
+      "active",
+      "veteran"
+    ]
+  },
+  {
+    "id": "state-nj",
+    "state": "New Jersey",
+    "title": "$250 veteran property-tax deduction",
+    "category": "Taxes & legal",
+    "eligibility": "New Jersey legal resident and property owner with qualifying active-duty service and honorable discharge.",
+    "description": "Deduct $250 annually from qualifying property taxes.",
+    "url": "https://www.nj.gov/treasury/taxation/lpt/lpt-veterans.shtml",
+    "geographic_scope": "New Jersey",
+    "caveats": "Requirements generally must be met October 1 of preceding year. Active duty for training does not qualify.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary state source",
+    "statuses": [
+      "veteran"
+    ]
+  },
+  {
+    "id": "state-nm",
+    "state": "New Mexico",
+    "title": "Reduced-fee small-game and fishing license",
+    "category": "Leisure & tickets",
+    "eligibility": "New Mexico service-connected disabled veterans; proof of disability.",
+    "description": "A $10 small-game and fishing license is available regardless of service-connected disability percentage.",
+    "url": "https://www.nmdvs.org/benefits/",
+    "geographic_scope": "New Mexico",
+    "caveats": "This is not an all-species or big-game license. Free lifetime license separately requires 100% service-connected disability.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary state source",
+    "statuses": [
+      "veteran"
+    ]
+  },
+  {
+    "id": "state-ny",
+    "state": "New York",
+    "title": "Alternative veterans property-tax exemption",
+    "category": "Taxes & legal",
+    "eligibility": "Qualifying wartime/expeditionary service, primary residence and eligible ownership; discharge under honorable conditions or approved Restoration of Honor determination. Certain career active members with ten years qualify.",
+    "description": "Reduces assessed residential value; qualifying disability can increase the exemption.",
+    "url": "https://www.tax.ny.gov/pit/property/exemption/altvetexempt.htm",
+    "geographic_scope": "New York",
+    "caveats": "Local adoption and caps govern savings. Active service eligibility requires the detailed reenlistment/service tests; no universal dishonorable-discharge eligibility.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary state source",
+    "statuses": [
+      "active",
+      "veteran"
+    ]
+  },
+  {
+    "id": "state-nc",
+    "state": "North Carolina",
+    "title": "Disabled veteran homestead exclusion",
+    "category": "Taxes & legal",
+    "eligibility": "Honorable/under honorable conditions separation and permanent total service-connected disability or qualifying specially adapted housing benefits.",
+    "description": "Excludes the first $45,000 of assessed primary-residence value for qualifying veterans or surviving spouses.",
+    "url": "https://www.ncdor.gov/ncdva-9-and-instructions-rev-4-22pdf/open",
+    "geographic_scope": "North Carolina",
+    "caveats": "10% alone does not qualify. Certification and county application required; no age or income limit.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary state source",
+    "statuses": [
+      "veteran",
+      "general"
+    ]
+  },
+  {
+    "id": "state-nd",
+    "state": "North Dakota",
+    "title": "Disabled Veteran property-tax credit",
+    "category": "Taxes & legal",
+    "eligibility": "Veterans with service-connected disability of at least 50%; qualifying owned and occupied homestead.",
+    "description": "Reduces taxable homestead value; a qualifying move can transfer credit to the new homestead.",
+    "url": "https://www.tax.nd.gov/property-tax-exemptions-credits",
+    "geographic_scope": "North Dakota",
+    "caveats": "A 10% or 30% rating alone does not reach this threshold. Ask county about documentation and deadlines.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary state source",
+    "statuses": [
+      "veteran"
+    ]
+  },
+  {
+    "id": "state-oh",
+    "state": "Ohio",
+    "title": "Enhanced disabled veteran homestead exemption",
+    "category": "Taxes & legal",
+    "eligibility": "Qualifying primary-home owner with 100% service-connected disability or total disability compensation based on individual unemployability.",
+    "description": "Property-tax reduction under the enhanced veteran homestead category.",
+    "url": "https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/forms/real_property/dte_105i_fi.pdf",
+    "geographic_scope": "Ohio",
+    "caveats": "10% alone does not qualify. Current application explicitly includes individual unemployability; annual exemption value is inflation adjusted.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary state source",
+    "statuses": [
+      "veteran"
+    ]
+  },
+  {
+    "id": "state-ok",
+    "state": "Oklahoma",
+    "title": "Disabled veteran sales-tax exemption",
+    "category": "Taxes & legal",
+    "eligibility": "Oklahoma resident with permanent disability receiving service-connected compensation at the 100% rate, certified by VA.",
+    "description": "Sales-tax exemption permit covering up to $25,000 of qualifying purchases annually.",
+    "url": "https://oklahoma.gov/tax/individuals/exemptions.html",
+    "geographic_scope": "Oklahoma",
+    "caveats": "Not $25,000 cash. 10% alone does not qualify. New applicants also need Oklahoma Veterans Registry verification.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary state source",
+    "statuses": [
+      "veteran"
+    ]
+  },
+  {
+    "id": "state-or",
+    "state": "Oregon",
+    "title": "Disabled veteran homestead exemption",
+    "category": "Taxes & legal",
+    "eligibility": "Oregon resident, own and live in home, qualifying veteran with disability of at least 40%; honorable service documentation.",
+    "description": "Exempts part of homestead assessed value; larger exemption for qualifying service-connected disabilities.",
+    "url": "https://www.oregon.gov/dor/forms/FormsPubs/veteran-exemption-claim_303-086.pdf",
+    "geographic_scope": "Oregon",
+    "caveats": "10%/30% alone do not reach 40%. Physician-certified route has additional requirements; generally file by April 1.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary state source",
+    "statuses": [
+      "veteran"
+    ]
+  },
+  {
+    "id": "state-pa",
+    "state": "Pennsylvania",
+    "title": "Disabled veteran real-estate tax exemption",
+    "category": "Taxes & legal",
+    "eligibility": "State resident; honorable/under honorable conditions discharge; qualifying wartime service; principal owned dwelling; qualifying permanent 100%, TDIU, or listed severe service-connected losses; financial need.",
+    "description": "Exempts eligible principal residence from real-estate taxes after state approval.",
+    "url": "https://www.pa.gov/agencies/dmva/pennsylvania-veterans/pa-vetconnect/state-veterans-programs/financial-assistance/retx",
+    "geographic_scope": "Pennsylvania",
+    "caveats": "Not automatic at 10% or 30%. Income above presumptive level may still qualify if verified allowable expenses exceed income.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary state source",
+    "statuses": [
+      "veteran",
+      "general"
+    ]
+  },
+  {
+    "id": "state-ri",
+    "state": "Rhode Island",
+    "title": "Disabled Veterans Tuition Waiver",
+    "category": "Education & careers",
+    "eligibility": "Permanent Rhode Island resident veteran with 10\u2013100% service-connected disability; apply for and use financial aid first.",
+    "description": "Tuition waiver at Rhode Island public colleges and universities.",
+    "url": "https://vets.ri.gov/find-your-benefits/find-your-benefits/disabled-veterans-tuition-waiver",
+    "geographic_scope": "Rhode Island",
+    "caveats": "Other fees and charges are excluded. Academic admission requirements still apply.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary state source",
+    "statuses": [
+      "veteran"
+    ]
+  },
+  {
+    "id": "state-sc",
+    "state": "South Carolina",
+    "title": "Disabled veteran vehicle property-tax exemption",
+    "category": "Taxes & legal",
+    "eligibility": "Veteran totally and permanently disabled from a service-connected disability.",
+    "description": "Property-tax exemption for two qualifying private passenger vehicles owned or leased.",
+    "url": "https://dor.sc.gov/property/property-tax-exemptions",
+    "geographic_scope": "South Carolina",
+    "caveats": "10% or 30% alone does not meet total-and-permanent requirement; submit state exemption application.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary state source",
+    "statuses": [
+      "veteran"
+    ]
+  },
+  {
+    "id": "state-sd",
+    "state": "South Dakota",
+    "title": "Disabled veteran owner-occupied dwelling exemption",
+    "category": "Taxes & legal",
+    "eligibility": "Veteran rated permanently and totally disabled from service-connected disability; own and occupy qualifying dwelling.",
+    "description": "Exempts $200,000 of qualifying dwelling value from property taxation.",
+    "url": "https://vetaffairs.sd.gov/benefits/State/Property%20Taxes.aspx",
+    "geographic_scope": "South Dakota",
+    "caveats": "10%/30% alone do not qualify. Surviving-spouse categories have their own amounts and requirements.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary state source",
+    "statuses": [
+      "veteran"
+    ]
+  },
+  {
+    "id": "state-tn",
+    "state": "Tennessee",
+    "title": "Disabled veteran property-tax relief",
+    "category": "Taxes & legal",
+    "eligibility": "Own primary residence; service-connected permanent total disability or specified severe service-connected losses, or qualifying POW disability.",
+    "description": "State reimbursement of part or all of qualifying paid property taxes, calculated on value up to the program cap.",
+    "url": "https://www.tn.gov/veteran/veteran-benefits/tn-state-benefits/homeowners/property-tax-relief-for-disabled-veterans.html",
+    "geographic_scope": "Tennessee",
+    "caveats": "10%/30% alone do not qualify. Apply through county trustee; state page lists $175,000 maximum market value for calculation.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary state source",
+    "statuses": [
+      "veteran"
+    ]
+  },
+  {
+    "id": "state-tx",
+    "state": "Texas",
+    "title": "Partial disabled veteran property exemption",
+    "category": "Taxes & legal",
+    "eligibility": "Texas resident with certified service-related disability of at least 10%; one designated owned property.",
+    "description": "10\u201329%: up to $5,000 value exemption; 30\u201349%: $7,500; 50\u201369%: $10,000; 70\u2013100%: $12,000.",
+    "url": "https://comptroller.texas.gov/forms/50-135.pdf",
+    "geographic_scope": "Texas",
+    "caveats": "These amounts reduce taxable property value, not the tax bill dollar-for-dollar. Separate 100%/IU homestead exemption has different rules.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary state source",
+    "statuses": [
+      "veteran"
+    ]
+  },
+  {
+    "id": "state-ut",
+    "state": "Utah",
+    "title": "Disabled veteran property-tax abatement",
+    "category": "Taxes & legal",
+    "eligibility": "Qualifying permanent residence and military service-connected disability rating of at least 10%.",
+    "description": "Reduces taxable property value using disability percentage multiplied by the state maximum abatement base.",
+    "url": "https://veterans.utah.gov/faqs/",
+    "geographic_scope": "Utah",
+    "caveats": "Base changes over time. Submit VA benefits letter and county application by September 1; refiling required for specified changes.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary state source",
+    "statuses": [
+      "veteran"
+    ]
+  },
+  {
+    "id": "state-vt",
+    "state": "Vermont",
+    "title": "Veteran property-tax exemption",
+    "category": "Taxes & legal",
+    "eligibility": "Eligible primary-home owner receiving VA disability compensation at 50%+, qualifying pension, or permanent medical military retirement pay.",
+    "description": "Reduces appraised residence value by $10,000 minimum, with town option up to $40,000.",
+    "url": "https://veterans.vermont.gov/benefits-and-services/veteran-benefits/tax-exemptions-veterans",
+    "geographic_scope": "Vermont",
+    "caveats": "Medical retirement is an alternative eligibility route, not proof of a 50% VA rating. Generally verify by May 1; 2026 application period closed.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary state source",
+    "statuses": [
+      "veteran",
+      "retired"
+    ]
+  },
+  {
+    "id": "state-va",
+    "state": "Virginia",
+    "title": "Disabled veteran real-property tax exemption",
+    "category": "Taxes & legal",
+    "eligibility": "Veteran with VA 100% service-connected permanent and total disability; qualifying owned principal residence.",
+    "description": "Exempts principal residence and up to one acre from real-property tax.",
+    "url": "https://vvs.dvs.virginia.gov/Services/StateBenefits-Services",
+    "geographic_scope": "Virginia",
+    "caveats": "10% or medical retirement at 30% alone does not qualify. Apply with local commissioner of revenue; qualifying surviving spouses have separate conditions.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary state source",
+    "statuses": [
+      "veteran"
+    ]
+  },
+  {
+    "id": "state-wa",
+    "state": "Washington",
+    "title": "Lifetime Disabled Veteran park pass",
+    "category": "Leisure & tickets",
+    "eligibility": "Washington resident veteran with combined service-connected disability of at least 30%; residency and VA award evidence.",
+    "description": "Free day-use parking, camping/moorage, boat launch and trailer dump at qualifying state parks; accepted at Discover Pass lands.",
+    "url": "https://parks.wa.gov/passes-permits/get-park-pass/lifetime-disabled-veteran-pass",
+    "geographic_scope": "Washington",
+    "caveats": "VA service-connected rating required; a DoD retirement rating alone is insufficient evidence. Cabins, yurts, extra-vehicle fees and Sno-Parks excluded; stay limits apply.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary state source",
+    "statuses": [
+      "veteran"
+    ]
+  },
+  {
+    "id": "state-wv",
+    "state": "West Virginia",
+    "title": "Military and disabled veteran hunting/fishing privileges",
+    "category": "Leisure & tickets",
+    "eligibility": "Resident veterans qualifying for VA auto grant, VA 100% permanent total disability, or former POW status; active duty on leave/furlough have separate privilege.",
+    "description": "Qualifying veterans may obtain free hunting, trapping and fishing licenses; active-duty leave papers can substitute for licenses.",
+    "url": "https://veterans.wv.gov/benefits-assistance/benefits/state-benefits",
+    "geographic_scope": "West Virginia",
+    "caveats": "10% alone is not the disabled-veteran threshold. Follow hunting seasons and other wildlife rules; carry required status documentation.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary state source",
+    "statuses": [
+      "active",
+      "veteran"
+    ]
+  },
+  {
+    "id": "state-wi",
+    "state": "Wisconsin",
+    "title": "Veterans property-tax credit",
+    "category": "Taxes & legal",
+    "eligibility": "Wisconsin resident veteran with honorable active service, 100% service-connected rating or individual unemployability; entered service as resident or five consecutive years residency afterward.",
+    "description": "Refundable state tax credit for qualifying paid property taxes on primary residence and up to one acre.",
+    "url": "https://dva.wi.gov/services/housing-and-financial-services/property-tax-credit/",
+    "geographic_scope": "Wisconsin",
+    "caveats": "WDVA certification required. 10%/30% alone do not qualify. Joint ownership and business portions limit claim.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary state source",
+    "statuses": [
+      "veteran"
+    ]
+  },
+  {
+    "id": "state-wy",
+    "state": "Wyoming",
+    "title": "Veteran property or vehicle tax exemption",
+    "category": "Taxes & legal",
+    "eligibility": "Current Wyoming resident with three years in state; qualifying honorably discharged wartime/campaign veteran, certain disabled veteran, or eligible surviving spouse.",
+    "description": "Exempts $6,000 of assessed value; may be applied to primary residence property tax or motor-vehicle registration.",
+    "url": "https://wyo-prop-div.wyo.gov/tax-relief",
+    "geographic_scope": "Wyoming",
+    "caveats": "Not a $6,000 cash payment. Apply by fourth Monday in May for property relief; assessor must verify service/disability category.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary state source",
+    "statuses": [
+      "veteran"
+    ]
+  },
+  {
+    "id": "wellbeing-01",
+    "title": "Army Recovery Care adaptive reconditioning",
+    "category": "Adaptive sports",
+    "description": "Modified exercise, sports and therapeutic activities support recovery from injury or illness.",
+    "eligibility": "Eligible Soldiers assigned to a Soldier Recovery Unit and cleared by its physical therapist.",
+    "caveats": "Participation follows your medical profile and recovery plan; RM2 Soldiers are excluded on the published program page.",
+    "url": "https://www.arcp.army.mil/AR-Test/",
+    "geographic_scope": "Army Soldier Recovery Units",
+    "statuses": [
+      "active"
+    ],
+    "last_verified": "2026-10-16",
+    "source_type": "U.S. Army",
+    "next_step": "Ask your SRU physical therapist about activities that fit your profile."
+  },
+  {
+    "id": "wellbeing-02",
+    "title": "Move United Warfighters",
+    "category": "Adaptive sports",
+    "description": "Free adaptive sports help you try activities such as skiing, cycling and paddling with adapted equipment.",
+    "eligibility": "Service members and veterans with a permanent physical disability; combat and noncombat injuries from any era.",
+    "caveats": "Military-specific events are free; confirm each event\u2019s travel arrangements and available adaptations.",
+    "url": "https://moveunitedsport.org/get-involved/warfighters/",
+    "geographic_scope": "United States; local member organizations",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran"
+    ],
+    "last_verified": "2026-10-16",
+    "source_type": "Official program provider",
+    "next_step": "Submit the Warfighters interest form to find nearby programs."
+  },
+  {
+    "id": "wellbeing-03",
+    "title": "VA national adaptive sports and arts events",
+    "category": "Adaptive sports",
+    "description": "Find VA rehabilitation events ranging from winter sports and golf to wheelchair competition and creative arts.",
+    "eligibility": "Veterans who meet the chosen event\u2019s medical and VA-care criteria.",
+    "caveats": "This is an event directory; each event has separate eligibility, referral, registration and travel rules. VA grants fund organizations rather than giving every participant a cash grant.",
+    "url": "https://department.va.gov/veteran-sports/",
+    "geographic_scope": "United States; national events",
+    "statuses": [
+      "retired",
+      "veteran"
+    ],
+    "last_verified": "2026-10-16",
+    "source_type": "U.S. Department of Veterans Affairs",
+    "next_step": "Ask VA recreation therapy which event fits your interests."
+  },
+  {
+    "id": "wellbeing-04",
+    "title": "National Veterans Wheelchair Games",
+    "category": "Adaptive sports",
+    "description": "Try wheelchair sports and compete alongside other veterans with mobility disabilities.",
+    "eligibility": "Veterans eligible for care at a VA medical facility who meet the Games\u2019 medical criteria.",
+    "caveats": "Registration requires medical review; a VA percentage alone does not establish eligibility. Annual dates and application windows change.",
+    "url": "https://wheelchairgames.org/registration/",
+    "geographic_scope": "United States; annual host city",
+    "statuses": [
+      "retired",
+      "veteran"
+    ],
+    "last_verified": "2026-10-16",
+    "source_type": "VA / Paralyzed Veterans of America event",
+    "next_step": "Review medical criteria with your VA clinician."
+  },
+  {
+    "id": "wellbeing-05",
+    "title": "National Veterans Summer Sports Clinic",
+    "category": "Adaptive sports",
+    "description": "An immersive rehabilitation experience uses fitness, sports and teamwork to support a healthier routine at home.",
+    "eligibility": "Published 2027 criteria: veterans age 55 or younger actively seen in VA mental health programs, referred by their VA mental health provider.",
+    "caveats": "These are current event-specific criteria, not a blanket benefit for all disabled veterans. Ask the referring team about costs and travel.",
+    "url": "https://department.va.gov/veteran-sports/national-veterans-summer-sports-clinic-archive/",
+    "geographic_scope": "United States; annual host city",
+    "statuses": [
+      "retired",
+      "veteran"
+    ],
+    "last_verified": "2026-10-16",
+    "source_type": "U.S. Department of Veterans Affairs",
+    "next_step": "Ask your VA mental health provider about referral."
+  },
+  {
+    "id": "wellbeing-06",
+    "title": "Warrior Sailing basic training",
+    "category": "Adaptive sports",
+    "description": "A three-day sailing camp teaches boating and teamwork to wounded, ill or injured military participants.",
+    "eligibility": "Wounded, ill or injured service members and veterans from all U.S. military branches.",
+    "caveats": "Camp instruction, equipment, meals and local transport are covered. Participants outside the local region pay travel to the camp; selection and dates vary.",
+    "url": "https://warriorsailing.org/basic-training/",
+    "geographic_scope": "United States; regional camps",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran"
+    ],
+    "last_verified": "2026-10-16",
+    "source_type": "Official program provider",
+    "next_step": "Check upcoming camps and ask about your functional needs."
+  },
+  {
+    "id": "wellbeing-07",
+    "title": "Project Healing Waters",
+    "category": "Adaptive sports",
+    "description": "Learn fly fishing, casting, fly tying and rod building, then join fishing outings. Equipment and participant trips are free.",
+    "eligibility": "Injured or ill service members need a qualifying in-line-of-duty condition and provider recommendation. Veterans qualify through a VA disability rating, authorized VA referral, or an interim military disability rating pending VA determination.",
+    "caveats": "Join the local program before requesting trips; the group verifies its participation requirements.",
+    "url": "https://projecthealingwaters.org/about-us/faqs/",
+    "geographic_scope": "United States; local programs, including Texas and Maryland",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran"
+    ],
+    "last_verified": "2026-10-16",
+    "source_type": "Official program provider",
+    "next_step": "Contact the nearest program lead."
+  },
+  {
+    "id": "wellbeing-08",
+    "title": "Texas Parasport military connections",
+    "category": "Adaptive sports",
+    "description": "Find adaptive sports, equipment connections and support close to home in Texas.",
+    "eligibility": "Wounded, ill or injured military community members; individual partner programs set participation rules.",
+    "caveats": "This is a connection service and program network; costs and eligibility differ by sport and provider.",
+    "url": "https://www.texasparasport.org/military",
+    "geographic_scope": "Texas",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran"
+    ],
+    "last_verified": "2026-10-16",
+    "source_type": "Official program provider",
+    "next_step": "Contact Texas Parasport with your location and preferred activities."
+  },
+  {
+    "id": "wellbeing-09",
+    "title": "K9s For Warriors service dogs",
+    "category": "Service dogs",
+    "description": "Trained dogs perform disability-related tasks to help veterans with service-connected PTSD, traumatic brain injury, or military sexual trauma.",
+    "eligibility": "Veterans of any era with the provider\u2019s verified qualifying clinical diagnosis and application approval.",
+    "caveats": "Dog and residential training are free; participant travel is not included. Waitlist and screening apply; they do not train your own pet. Currently serving applicants should use the prescreener rather than assume eligibility.",
+    "url": "https://k9sforwarriors.org/warrior-service-dog-program/",
+    "geographic_scope": "All 50 states, Puerto Rico and Guam; travel to training required",
+    "statuses": [
+      "retired",
+      "veteran"
+    ],
+    "last_verified": "2026-10-16",
+    "source_type": "Official program provider",
+    "next_step": "Complete the program prescreener and discuss documentation with your clinician."
+  },
+  {
+    "id": "wellbeing-10",
+    "title": "America\u2019s VetDogs",
+    "category": "Service dogs",
+    "description": "Guide, hearing and service dogs can assist with practical tasks or qualifying PTSD-related needs.",
+    "eligibility": "Active military and honorably discharged veterans with qualifying disabilities. Published PTSD criteria specify combat-related PTSD and at least one year of consistent mental health care.",
+    "caveats": "Dog, training, campus accommodation and transportation are free. Two-week residential training and ongoing dog-care responsibilities apply; waitlist varies. Ask admissions about the separate MST program.",
+    "url": "https://www.vetdogs.org/AV/DogPrograms/programadmission.aspx?WebsiteKey=f997121e-05fb-4563-97e0-fcd800275534",
+    "geographic_scope": "United States; training in New York; residency exceptions case by case",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran"
+    ],
+    "last_verified": "2026-10-16",
+    "source_type": "Official program provider",
+    "next_step": "Request the admissions application for the appropriate dog program."
+  },
+  {
+    "id": "wellbeing-11",
+    "title": "Canine Companions veterans service dogs",
+    "category": "Service dogs",
+    "description": "Free service dogs help with physical tasks, hearing needs or service-connected PTSD.",
+    "eligibility": "U.S. veterans with qualifying physical disability, hearing loss or service-connected PTSD, subject to provider assessment.",
+    "caveats": "Application and matching are required; verify current training location, travel costs and wait time. These are task-trained service dogs.",
+    "url": "https://canine.org/service-dogs/service-dogs-for-veterans/",
+    "geographic_scope": "United States; regional centers, including Texas",
+    "statuses": [
+      "retired",
+      "veteran"
+    ],
+    "last_verified": "2026-10-16",
+    "source_type": "Official program provider",
+    "next_step": "Contact the Veterans Program Manager or start the applicant questionnaire."
+  },
+  {
+    "id": "wellbeing-12",
+    "title": "Warrior Canine Connection service dogs",
+    "category": "Service dogs",
+    "description": "Free trained dogs help with mobility limitations, PTSD, or traumatic brain injury.",
+    "eligibility": "Veterans or members in later medical-separation evaluation stages, with qualifying disability, provider support and treatment participation.",
+    "caveats": "Waits can be long. At least eight days of Maryland team training; travel and lodging generally your responsibility. No pet-dog training.",
+    "url": "https://warriorcanineconnection.org/service-dogs/dog-applicants/",
+    "geographic_scope": "Maryland training; contact provider about placement geography",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran"
+    ],
+    "last_verified": "2026-10-16",
+    "source_type": "Official program provider",
+    "next_step": "Email Client Services to discuss medical-transition timing."
+  },
+  {
+    "id": "wellbeing-13",
+    "title": "Patriot PAWS service dogs",
+    "category": "Service dogs",
+    "description": "Free service dogs help disabled veterans with mobility limitations or post-traumatic stress.",
+    "eligibility": "Honorably discharged veterans may apply; each application receives individual review and a background check.",
+    "caveats": "Provider estimates 12\u201324 months to match. Confirm travel and training logistics. In-home working dogs are a separate option with different access limits.",
+    "url": "https://patriotpaws.org/applications/",
+    "geographic_scope": "Texas-based; ask coordinator about nationwide placement",
+    "statuses": [
+      "retired",
+      "veteran"
+    ],
+    "last_verified": "2026-10-16",
+    "source_type": "Official program provider",
+    "next_step": "Apply through the Service Dog application and speak with the Veteran Coordinator."
+  },
+  {
+    "id": "wellbeing-14",
+    "title": "VA service-dog veterinary benefit",
+    "category": "Service dogs",
+    "description": "VA may cover veterinary care and necessary equipment for an approved guide, hearing or mobility service dog.",
+    "eligibility": "Veterans prescribed a qualifying dog for visual, hearing or substantial mobility impairment; VA clinical approval and ADI/IGDF-accredited team training required.",
+    "caveats": "VA does not supply dogs universally. PTSD alone is not a qualifying impairment under this published insurance benefit; routine food, grooming and boarding are not generally covered.",
+    "url": "https://www.rehab.va.gov/PROSTHETICS/ServiceAndGuideDogs.asp",
+    "geographic_scope": "United States; contact VA about coverage geography",
+    "statuses": [
+      "retired",
+      "veteran"
+    ],
+    "last_verified": "2026-10-16",
+    "source_type": "U.S. Department of Veterans Affairs",
+    "next_step": "Request evaluation through your VA provider and Prosthetics service."
+  },
+  {
+    "id": "wellbeing-15",
+    "title": "Warrior Canine Connection family support dogs",
+    "category": "Service dogs",
+    "description": "An in-home companion can support relationships and daily family life.",
+    "eligibility": "Active-duty members, veterans or Gold Star families with provider support and a suitable household.",
+    "caveats": "This family-support dog has no service-dog public-access rights. Training and travel requirements apply; dog and training have no fee.",
+    "url": "https://warriorcanineconnection.org/service-dogs/dog-applicants/",
+    "geographic_scope": "Maryland training; ask about placement geography",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran"
+    ],
+    "last_verified": "2026-10-16",
+    "source_type": "Official program provider",
+    "next_step": "Ask Client Services whether the family-support placement fits your household."
+  },
+  {
+    "id": "wellbeing-16",
+    "title": "Operation Kindness military pet-adoption discount",
+    "category": "Community & outreach",
+    "description": "Save 25% on adoption fees for a companion pet.",
+    "eligibility": "Veterans and active military with valid military ID under the published year-round offer.",
+    "caveats": "This is pet adoption, not a trained service-dog program. Confirm the discount and accepted proof before visiting.",
+    "url": "https://www.operationkindness.org/military-discounts-on-pet-adoptions-in-dallas/",
+    "geographic_scope": "North Texas adoption locations",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran"
+    ],
+    "last_verified": "2026-10-16",
+    "source_type": "Official program provider",
+    "next_step": "Bring military ID and ask the adoption team about the discount."
+  },
+  {
+    "id": "wellbeing-17",
+    "title": "Team Red, White & Blue chapters",
+    "category": "Community & outreach",
+    "description": "Meet other veterans and service members through local exercise and social activities.",
+    "eligibility": "Veterans, active-duty members, Guard, Reserve and civilian supporters.",
+    "caveats": "Activities and schedules vary by chapter; check the event listing for any costs or accessibility needs.",
+    "url": "https://teamrwb.org/find-your-chapter",
+    "geographic_scope": "United States and listed overseas chapters",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran",
+      "general"
+    ],
+    "last_verified": "2026-10-16",
+    "source_type": "Official program provider",
+    "next_step": "Find your chapter and browse events in the member app."
+  },
+  {
+    "id": "wellbeing-18",
+    "title": "Team Rubicon volunteering",
+    "category": "Community & outreach",
+    "description": "Use your skills for disaster relief, local service projects or remote volunteer work while meeting a service-minded community.",
+    "eligibility": "Veterans, active-duty members and civilians can join.",
+    "caveats": "Field deployment requires profile completion, TR101 and a background check; each role has suitability requirements. This is volunteering, not a cash benefit or employment.",
+    "url": "https://teamrubiconusa.org/news-and-stories/how-to-join-team-rubicon-disaster-relief-volunteer/",
+    "geographic_scope": "United States; remote roles and selected international operations",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran",
+      "general"
+    ],
+    "last_verified": "2026-10-16",
+    "source_type": "Official program provider",
+    "next_step": "Register as a Greyshirt and choose roles that fit your abilities."
+  },
+  {
+    "id": "wellbeing-19",
+    "title": "The Mission Continues service platoons",
+    "category": "Community & outreach",
+    "description": "Join veterans and neighbors for community projects and social events.",
+    "eligibility": "Everyone is welcome, regardless of veteran status.",
+    "caveats": "Local projects and accessibility vary. The program is now part of Travis Manion Foundation following its 2025 acquisition.",
+    "url": "https://prod01.missioncontinues.org/service-platoons/",
+    "geographic_scope": "United States; participating cities",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran",
+      "general"
+    ],
+    "last_verified": "2026-10-16",
+    "source_type": "Official program provider",
+    "next_step": "Find a nearby platoon and sign up for a suitable project."
+  },
+  {
+    "id": "wellbeing-20",
+    "title": "Texas Military Veteran Peer Network",
+    "category": "Community & outreach",
+    "description": "Connect with trained military and veteran peers for local support, networking and referrals.",
+    "eligibility": "Texas military and veteran community; local teams can explain access for family members and service status.",
+    "caveats": "Peer support is not a substitute for clinical treatment. Services and meeting formats vary by county.",
+    "url": "https://texvet.org/services",
+    "geographic_scope": "Texas; county and regional contacts",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran"
+    ],
+    "last_verified": "2026-10-16",
+    "source_type": "Texas A&M Health TexVet directory",
+    "next_step": "Use TexVet\u2019s county filter to contact your local peer coordinator."
+  },
+  {
+    "id": "wellbeing-21",
+    "title": "Maryland\u2019s Commitment to Veterans",
+    "category": "Community & outreach",
+    "description": "Care coordinators and peers help connect you with health and community resources.",
+    "eligibility": "U.S. uniformed service members, veterans and their families in Maryland.",
+    "caveats": "This is coordination and referral support; the receiving program determines its own eligibility and costs.",
+    "url": "https://health.maryland.gov/bha/veterans/Pages/Home.aspx",
+    "geographic_scope": "Maryland",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran"
+    ],
+    "last_verified": "2026-10-16",
+    "source_type": "Maryland Department of Health",
+    "next_step": "Contact the regional resource coordinator."
+  },
+  {
+    "id": "wellbeing-22",
+    "title": "Warrior Canine Connection dog-training recovery",
+    "category": "Community & outreach",
+    "description": "Help train a future service dog for another veteran while practicing communication and emotional-regulation skills.",
+    "eligibility": "Recovering warriors; provider states participation is available through referral or self-enrollment, regardless of branch or discharge status.",
+    "caveats": "Therapeutic dog-training participation does not mean you receive a dog; ask about location and intake availability.",
+    "url": "https://warriorcanineconnection.org/wp-content/uploads/2026-02-13-Impact-Report-Flipbook.pdf",
+    "geographic_scope": "Maryland and program partner locations",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran",
+      "general"
+    ],
+    "last_verified": "2026-10-16",
+    "source_type": "Official program provider",
+    "next_step": "Ask about Mission Based Trauma Recovery sessions near you."
+  },
+  {
+    "id": "wellbeing-23",
+    "title": "Wounded Warrior Project community and wellness",
+    "category": "Community & outreach",
+    "description": "Free connection events and wellness, benefits and transition support help you find useful services and community.",
+    "eligibility": "Post-9/11 service members in good standing and honorably discharged veterans; other discharges reviewed case by case. Physical or combat injury is not required by the current registration FAQ.",
+    "caveats": "Registration verification applies; individual programs can add clinical criteria. In-person and virtual options vary.",
+    "url": "https://www.woundedwarriorproject.org/programs/wwp-registration",
+    "geographic_scope": "United States; some virtual support",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran"
+    ],
+    "last_verified": "2026-10-16",
+    "source_type": "Official program provider",
+    "next_step": "Register or ask the Resource Center which programs fit your needs."
+  },
+  {
+    "id": "wellbeing-24",
+    "title": "Wounded Warrior Project Landstuhl support",
+    "category": "Community & outreach",
+    "description": "A WWP team offers comfort items and connections to recovery resources after medical evacuation.",
+    "eligibility": "Post-9/11 service members medically evacuated from deployed locations to Landstuhl Regional Medical Center.",
+    "caveats": "This specific overseas service is tied to medical evacuation; it is not a universal overseas grant.",
+    "url": "https://www.woundedwarriorproject.org/programs/international-support",
+    "geographic_scope": "Landstuhl, Germany",
+    "statuses": [
+      "active"
+    ],
+    "last_verified": "2026-10-16",
+    "source_type": "Official program provider",
+    "next_step": "Ask the Landstuhl care team about WWP support."
+  },
+  {
+    "id": "wellbeing-25",
+    "title": "Vet Center counseling",
+    "category": "Mental health & PTSD",
+    "description": "Community-based individual, group and family counseling can help with military trauma and readjustment.",
+    "eligibility": "Veterans and current service members meeting an eligibility route such as combat or hostility service, military sexual trauma, qualifying disaster response or certain education-related readjustment needs.",
+    "caveats": "Eligibility is event- and service-based; VA enrollment and a disability rating are not required. Counseling is free, but ask the center which eligibility route applies.",
+    "url": "https://www.vetcenter.va.gov/Eligibility.asp",
+    "geographic_scope": "United States; local Vet Centers",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran"
+    ],
+    "last_verified": "2026-10-16",
+    "source_type": "U.S. Department of Veterans Affairs",
+    "next_step": "Contact a Vet Center for an eligibility conversation."
+  },
+  {
+    "id": "wellbeing-26",
+    "title": "VA PTSD Coach and National Center for PTSD",
+    "category": "Mental health & PTSD",
+    "description": "Free information and self-help tools explain trauma symptoms, coping skills and evidence-based treatments.",
+    "eligibility": "Public resources and the PTSD Coach app are available to anyone.",
+    "caveats": "The app cannot diagnose PTSD or replace professional evaluation or treatment.",
+    "url": "https://www.ptsd.va.gov/appvid/mobile/ptsdcoach_app.asp",
+    "geographic_scope": "Online; publicly available internationally",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran",
+      "general"
+    ],
+    "last_verified": "2026-10-16",
+    "source_type": "U.S. Department of Veterans Affairs",
+    "next_step": "Explore Learn and Manage Symptoms, then discuss treatment options with a clinician."
+  },
+  {
+    "id": "wellbeing-27",
+    "title": "Warrior Care Network",
+    "category": "Mental health & PTSD",
+    "description": "An intensive treatment program helps with service-related PTSD, military sexual trauma, traumatic brain injury, and related symptoms.",
+    "eligibility": "Service members and veterans who served on or after September 11, 2001, have qualifying service-related symptoms and can attend for at least two weeks; diagnosis is not required to apply.",
+    "caveats": "Clinical screening applies; not intended for someone currently in crisis. No participant cost; insurance may be billed.",
+    "url": "https://www.woundedwarriorproject.org/programs/warrior-care-network",
+    "geographic_scope": "United States; participating academic medical centers",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran"
+    ],
+    "last_verified": "2026-10-16",
+    "source_type": "Official program provider",
+    "next_step": "Ask WWP\u2019s Resource Center for a clinical-program screening."
+  },
+  {
+    "id": "wellbeing-28",
+    "title": "The Headstrong Project trauma therapy",
+    "category": "Mental health & PTSD",
+    "description": "Get matched with a trauma therapist for up to 30 fully covered eligible sessions without using insurance.",
+    "eligibility": "Veterans of any era, Guard, Reserve, and transitioning members within three months of separation or retirement; location and clinical review apply.",
+    "caveats": "The 30 sessions are a lifetime program benefit; later sessions require a copayment. State licensing, availability and funding limit access. Privacy has legal safety exceptions.",
+    "url": "https://www.theheadstrongproject.org/how-treatment-works/faqs",
+    "geographic_scope": "Participating U.S. states; in-person and telehealth",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran"
+    ],
+    "last_verified": "2026-10-16",
+    "source_type": "Official program provider",
+    "next_step": "Check service areas and complete Connect to Care."
+  },
+  {
+    "id": "wellbeing-29",
+    "title": "Cohen Veterans Network clinics",
+    "category": "Mental health & PTSD",
+    "description": "Mental health clinics offer therapy for PTSD, depression, anxiety and family concerns.",
+    "eligibility": "Post-9/11 veterans, active-duty members with a TRICARE referral, Guard, Reserve and military families; veterans served regardless of discharge status.",
+    "caveats": "Insurance and payment arrangements vary; no-insurance care may be free and the provider says cost should not block access. Confirm local clinic coverage.",
+    "url": "https://www.cohenveteransnetwork.org/get-the-facts/",
+    "geographic_scope": "Participating U.S. clinic regions; verify current overseas locations",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran",
+      "general"
+    ],
+    "last_verified": "2026-10-16",
+    "source_type": "Official program provider",
+    "next_step": "Find a clinic and ask about eligibility, telehealth and costs."
+  },
+  {
+    "id": "wellbeing-30",
+    "title": "Stop Soldier Suicide ROGER care",
+    "category": "Suicide prevention",
+    "description": "Free personalized virtual care focuses on safety planning, suicide prevention and support for life stressors.",
+    "eligibility": "U.S. service members and veterans of any era or discharge status.",
+    "caveats": "Independent of DoD and VA; confirm clinical availability and privacy exceptions with the intake team. It does not provide grants or direct financial assistance.",
+    "url": "https://www.stopsoldiersuicide.org/roger-wellness-service//",
+    "geographic_scope": "Virtual; ask about care where you are physically located",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran",
+      "general"
+    ],
+    "last_verified": "2026-10-16",
+    "source_type": "Official program provider",
+    "next_step": "Use the provider\u2019s care-request form to discuss support."
+  },
+  {
+    "id": "wellbeing-31",
+    "title": "Military mental health evaluation access: Brandon Act",
+    "category": "Mental health & PTSD",
+    "description": "Request a mental health evaluation directly through a military clinic or with help from your leadership.",
+    "eligibility": "Currently serving service members covered by their service\u2019s implementation, including Army Soldiers.",
+    "caveats": "Medical confidentiality has legal and safety limits; it is not an unconditional guarantee against command notification. Appointment and referral procedures depend on location.",
+    "url": "https://www.health.mil/Military-Health-Topics/Mental-Health/Brandon-Act",
+    "geographic_scope": "U.S. military installations, including overseas",
+    "statuses": [
+      "active"
+    ],
+    "last_verified": "2026-10-16",
+    "source_type": "Defense Health Agency",
+    "next_step": "Contact your military behavioral health clinic or request a referral from your supervisor."
+  },
+  {
+    "id": "wellbeing-32",
+    "title": "Army chaplain confidential support",
+    "category": "Suicide prevention",
+    "description": "Talk with a chaplain about personal stress, grief, relationships or spiritual concerns.",
+    "eligibility": "Army service members and military families; contact the installation for other eligible populations.",
+    "caveats": "Privilege applies to private communications made to a chaplain as a spiritual adviser or matter of conscience. Chaplain support is different from clinical treatment.",
+    "url": "https://www.army.mil/article/274584/chaplain_confidentiality_go_tell_it_to_the_chaplain",
+    "geographic_scope": "Army units and installations worldwide",
+    "statuses": [
+      "active"
+    ],
+    "last_verified": "2026-10-16",
+    "source_type": "U.S. Army",
+    "next_step": "Contact your unit or installation chaplain and ask for a private conversation."
+  },
+  {
+    "id": "travel-1",
+    "title": "Walt Disney World Military Salute tickets \u00b7 2026",
+    "category": "Resorts & theme parks",
+    "description": "Discounted multi-day Disney World tickets for eligible military members and their families. This is a paid ticket offer.",
+    "eligibility": "Active duty and military retirees, eligible Guard/Reserve and qualifying spouses with valid military ID",
+    "caveats": "Valid through December 18, 2026; November 22\u201328 blocked. Park reservations and sponsor activation required; six-ticket limit with sponsor-use rules. Parking and other extras excluded. Ordinary veteran status or VA 10% alone is not the listed qualification.",
+    "url": "https://disneyworld.disney.go.com/special-offers/military-multi-day-tickets-2026/",
+    "geographic_scope": "United States / Florida",
+    "statuses": [
+      "active",
+      "retired"
+    ],
+    "next_step": "Ask your Army MWR ticket office about the appropriate ticket and check park reservations before buying.",
+    "offer_type": "Discounted tickets",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider",
+    "verification": "Military ID / ticket office"
+  },
+  {
+    "id": "travel-2",
+    "title": "Disneyland military tickets \u00b7 2026",
+    "category": "Resorts & theme parks",
+    "description": "Special-price Disneyland tickets, including three- and four-day Park Hopper options.",
+    "eligibility": "Eligible active-duty or retired military and qualifying spouses with current military ID",
+    "caveats": "Three-/four-day tickets: purchase by December 27, use by December 31, 2026. Reservations required; up to six promotional tickets and sponsor-use requirements. One-day offer has separate dates. Check current ID and ticket rules.",
+    "url": "https://disneyland.disney.go.com/offers-discounts/military-tickets-discounts-2026/",
+    "geographic_scope": "United States / California",
+    "statuses": [
+      "active",
+      "retired"
+    ],
+    "next_step": "Check Disneyland reservations and ask an authorized military ticket office for the current options.",
+    "offer_type": "Discounted tickets",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider",
+    "verification": "Military ID / ticket office or GOVX"
+  },
+  {
+    "id": "travel-3",
+    "title": "Disneyland Paris military ticket discount",
+    "category": "Resorts & theme parks",
+    "description": "Eligible military members can get a special ticket rate for a visit to Disneyland Paris.",
+    "eligibility": "Active or retired military with accepted French, UK or US government proof of service",
+    "caveats": "Check the specific military product, dates, guest limits and required original ID. A veteran designation alone may not satisfy retired-military documentation. Travel and lodging cost extra.",
+    "url": "https://tickets.disneylandparis.com/en-gb/tickets",
+    "geographic_scope": "Overseas / Europe / France",
+    "statuses": [
+      "active",
+      "retired"
+    ],
+    "next_step": "Select the military special-rate option and review accepted proof before purchasing.",
+    "offer_type": "Discounted tickets",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider",
+    "verification": "Official military proof"
+  },
+  {
+    "id": "travel-4",
+    "title": "Atlantis Bahamas military appreciation discount",
+    "category": "Resorts & theme parks",
+    "description": "Verify your military status through ID.me for up to 30% off the resort\u2019s Best Available Rates.",
+    "eligibility": "Military customers who pass the offer\u2019s ID.me verification",
+    "caveats": "A percentage discount, not a free stay. Dates, room availability and final checkout terms govern; compare total including taxes, resort fees, transport and meals. Provider page does not spell out every veteran/discharge category.",
+    "url": "https://www.atlantisbahamas.com/military-and-first-responders",
+    "geographic_scope": "Overseas / Bahamas",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran"
+    ],
+    "next_step": "Use Atlantis\u2019s official military offer and compare the full trip price before booking.",
+    "offer_type": "Discounted hotel stay",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider",
+    "verification": "ID.me",
+    "verification_url": "https://www.atlantisbahamas.com/military-and-first-responders"
+  },
+  {
+    "id": "travel-5",
+    "title": "Atlantis via Caesars SALUTE / Platinum \u00b7 conditional nights",
+    "category": "Resorts & theme parks",
+    "description": "Caesars SALUTE gives eligible military customers Platinum status. Its 2026 Atlantis partner offer lists complimentary nights for selected months, with substantial conditions.",
+    "eligibility": "Verified Caesars SALUTE military/veteran members with Platinum status and Atlantis offer approval",
+    "caveats": "Platinum: four complimentary Coral nights in Jan/May/Jun/Sep/Oct; Feb/Aug/Nov/Dec buy two at $150 each, get two complimentary. Book and travel by Feb 1, 2027, subject to availability. Terms require four hours of rated casino play or retail package charges. Resort fees, meals, flights, VAT and gratuities are not included unless specified. Confirm SALUTE-linked eligibility and all charges directly before booking.",
+    "url": "https://www.caesars.com/myrewards/partners/atlantis-paradise-island",
+    "geographic_scope": "Overseas / Bahamas",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran"
+    ],
+    "next_step": "Verify SALUTE in person, then ask Atlantis VIP Services to confirm your specific Platinum offer, play condition, fees and cancellation terms in writing.",
+    "offer_type": "Conditional complimentary nights",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider",
+    "verification": "Caesars SALUTE / in-person ID"
+  },
+  {
+    "id": "travel-6",
+    "title": "Caesars SALUTE military benefits",
+    "category": "Resorts & theme parks",
+    "description": "Military membership provides Platinum status plus selected hotel, dining, shopping and parking benefits.",
+    "eligibility": "Active-duty, Guard/Reserve, veterans, retirees and eligible spouses with accepted proof",
+    "caveats": "Verify ID in person at a Caesars Rewards Center. Destination terms vary. Atlantis is a separate conditional partner benefit; SALUTE status does not make every stay or parking location free.",
+    "url": "https://caesarsrewards.custhelp.com/app/answers/detail/a_id/2412/~/caesars-rewards---salute-card",
+    "geographic_scope": "United States / partner benefits overseas",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran"
+    ],
+    "next_step": "Bring accepted military/veteran ID to a Caesars Rewards Center and ask about current SALUTE benefits.",
+    "offer_type": "Membership & partner discounts",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider",
+    "verification": "Caesars SALUTE / in-person ID"
+  },
+  {
+    "id": "travel-7",
+    "title": "Shades of Green military resort",
+    "category": "Resorts & theme parks",
+    "description": "Stay at a military recreation resort near Disney World. Room eligibility and ticket eligibility are separate questions.",
+    "eligibility": "Active duty, retirees and other authorized patrons; qualifying service-connected veterans with required credentials",
+    "caveats": "Paid rooms, subject to availability. Expanded veteran access uses specified VHIC or alternative documents. Disney Salute ticket requirements can be stricter than resort access. Separate January/September program for other honorably discharged veterans.",
+    "url": "https://www.shadesofgreen.org/about-shades-green/eligibility",
+    "geographic_scope": "United States / Florida",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran"
+    ],
+    "next_step": "Read your eligibility category, confirm required ID and compare room rates; verify any tickets separately.",
+    "offer_type": "Military resort access",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider"
+  },
+  {
+    "id": "travel-8",
+    "title": "Universal Orlando Military Freedom Pass \u00b7 2026",
+    "category": "Resorts & theme parks",
+    "description": "Eligible military customers can buy a promotional pass for repeated park visits during the offer period.",
+    "eligibility": "Qualifying military or DoD ID holders under Universal\u2019s ticket rules",
+    "caveats": "Use through December 18, 2026; blockouts apply. Two-/three-park options differ. Volcano Bay excluded October 26\u2013December 18 during closure; Epic Universe is a separate add-on. Buy through authorized military offices; sponsor activation and ticket limits apply.",
+    "url": "https://www.universalorlando.com/web/en/us/tickets-packages/military-deals-specials",
+    "geographic_scope": "United States / Florida",
+    "statuses": [
+      "active",
+      "retired"
+    ],
+    "next_step": "Ask Army MWR to verify your ID category and park choices before buying.",
+    "offer_type": "Discounted tickets",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider"
+  },
+  {
+    "id": "travel-9",
+    "title": "SeaWorld Waves of Honor \u00b7 active duty",
+    "category": "Resorts & theme parks",
+    "description": "Eligible active-duty military can receive a complimentary one-day visit under the park\u2019s military program.",
+    "eligibility": "Eligible active-duty US military and qualifying guests under the selected park offer",
+    "caveats": "Verify the chosen park\u2019s ID, guest limits, redemption and expiration dates. Parking, extras and other parks are not automatically included. Veteran offers have separate seasonal windows; an expired veteran promotion is not an active entitlement.",
+    "url": "https://seaworld.com/orlando/-/media/commercial/seaworld-orlando/files/pdfs/press-releases/seaworld-parks-honor-military-appreciation-month-national-press-release-2026.pdf",
+    "geographic_scope": "United States / Florida / California / Texas",
+    "statuses": [
+      "active"
+    ],
+    "next_step": "Visit the official Waves of Honor page for your park and complete eligibility verification before travel.",
+    "offer_type": "Complimentary admission with conditions",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider"
+  },
+  {
+    "id": "travel-10",
+    "title": "American Forces Travel",
+    "category": "Resorts & theme parks",
+    "description": "A military travel site with negotiated hotel, cruise, flight, rental-car and event offers. Compare the final price with other booking options.",
+    "eligibility": "Eligible MWR patrons, including active duty, retirees and qualifying veterans",
+    "caveats": "Verification required. Savings vary; taxes, resort fees, cancellation restrictions and other charges can apply. Offers are paid travel unless specifically stated otherwise.",
+    "url": "https://www.militaryonesource.mil/recreation-travel-shopping/travel-lodging/american-forces-travel-discounts/",
+    "geographic_scope": "United States / overseas / worldwide",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran",
+      "general"
+    ],
+    "next_step": "Verify eligibility through American Forces Travel and compare the total cost and cancellation terms.",
+    "offer_type": "Travel booking discounts",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider"
+  },
+  {
+    "id": "idme-directory",
+    "title": "ID.me military offer directory",
+    "category": "Shopping & discounts",
+    "description": "Browse current military and veteran offers from participating brands, including travel, clothing, electronics and everyday services.",
+    "eligibility": "Eligible military communities verified by ID.me; each brand sets additional rules.",
+    "caveats": "Directory offers change. A verified military account does not override a merchant\u2019s exclusions, discharge rules, location limits, fees or terms. Cash back and discounts are different benefits; compare the final price.",
+    "url": "https://shop.id.me/military",
+    "geographic_scope": "United States / participating online merchants",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran",
+      "general"
+    ],
+    "verification": "ID.me",
+    "verification_url": "https://shop.id.me/military",
+    "next_step": "Choose an offer, review its terms and use the provider\u2019s ID.me verification link.",
+    "last_verified": "2026-10-16",
+    "source_type": "Official verification marketplace"
+  },
+  {
+    "id": "housing-01",
+    "title": "Army Emergency Relief \u2014 rent, deposits and temporary lodging",
+    "category": "Transition housing & rent",
+    "description": "Help with rent, initial rental deposits, utilities or temporary lodging through zero-interest loans, grants or a combination.",
+    "eligibility": "Active-duty Army Soldiers; medically retired Army Soldiers including TDRL/PDRL; eligible dependents.",
+    "caveats": "Individual financial-need review; a grant is not guaranteed. Medical retirement preserves eligibility; ordinary separation plus a VA rating alone does not establish retired status.",
+    "url": "https://www.armyemergencyrelief.org/assistance/",
+    "geographic_scope": "Worldwide / Army",
+    "next_step": "Apply online or contact your installation AER officer now; request a transition budget review and ask whether your need qualifies for a grant.",
+    "help_type": "Rent / deposit / temporary lodging / loan or grant",
+    "statuses": [
+      "active",
+      "retired"
+    ],
+    "timing": "Start before separation; medically retired Soldiers can also apply afterward.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider",
+    "verification": "Program application / supporting documents"
+  },
+  {
+    "id": "housing-02",
+    "title": "Operation Homefront \u2014 Transitional Housing Villages",
+    "category": "Transition housing & rent",
+    "description": "Furnished rent-free apartments with utilities and internet while medically separating families establish civilian income.",
+    "eligibility": "Wounded, ill or injured service members with families about to medically separate, or recently medically separated and awaiting VA compensation.",
+    "caveats": "Placement and openings required. Maryland primarily serves Walter Reed/Bethesda and Fort Belvoir treatment patients; San Antonio primarily JBSA/Audie Murphy; not a portable rent payment or a Houston apartment.",
+    "url": "https://operationhomefront.org/transitional-housing-villages/",
+    "geographic_scope": "Gaithersburg, Maryland / San Antonio, Texas / San Diego, California",
+    "next_step": "Email transitionalhousing@operationhomefront.org and apply through My Operation Homefront; describe medical separation date, family and treatment location.",
+    "help_type": "Rent-free furnished housing",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran"
+    ],
+    "timing": "Published program length: 8\u201318 months.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider",
+    "verification": "Program application / supporting documents"
+  },
+  {
+    "id": "housing-03",
+    "title": "Operation Homefront \u2014 Critical Financial Assistance (rent route)",
+    "category": "Transition housing & rent",
+    "description": "Short-term help with rent or mortgage and other essential bills during a documented financial hardship.",
+    "eligibility": "Post-9/11 line-of-duty wound, illness or injury; if discharged, honorable or general under honorable conditions and within 10 years. Separate qualifying deployed E1\u2013E6 route also exists.",
+    "caveats": "General active-duty E1\u2013E6 with dependents category alone covers food and dependent vision, not rent. Amount and months depend on review; not guaranteed transition income.",
+    "url": "https://operationhomefront.org/cfa-eligibility/",
+    "geographic_scope": "United States",
+    "next_step": "Call 877-264-3968 to confirm rent-route eligibility. Gather LOD/injury records, DD214 if separated, income and rent bill, then submit during monthly window.",
+    "help_type": "Rent / utilities / short-term financial assistance",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran",
+      "general"
+    ],
+    "timing": "Applications open 1st\u201310th monthly; process updated January 2026. Next window after October 16: November 1\u201310; verify deadline at https://operationhomefront.org/cfa-process/.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider",
+    "verification": "Program application / supporting documents"
+  },
+  {
+    "id": "housing-04",
+    "title": "Operation Homefront \u2014 Transitional Housing Apartments",
+    "category": "Transition housing & rent",
+    "description": "A selected apartment with rent, utilities and internet covered for one year plus financial and employment counseling.",
+    "eligibility": "Veterans with or without family within four years of honorable or general under honorable conditions discharge; injury/combat deployment not required.",
+    "caveats": "Security deposit is paid by veteran. Only Tacoma WA and Salt Lake City UT applications currently advertised as open; Frederick/Columbia MD and San Antonio TX are program locations, not confirmed current openings.",
+    "url": "https://operationhomefront.org/transitional-housing-apartments/",
+    "geographic_scope": "Maryland / Texas / Georgia / Utah / Washington (limited openings)",
+    "next_step": "Check current application status; ask about a waitlist or reopening for Maryland or Texas.",
+    "help_type": "Rent-free apartment",
+    "statuses": [
+      "veteran",
+      "retired",
+      "general"
+    ],
+    "timing": "12 months; published typical application processing 30\u201345 days.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider",
+    "verification": "Program application / supporting documents"
+  },
+  {
+    "id": "housing-05",
+    "title": "Operation Homefront \u2014 Transitional Homes for Veterans",
+    "category": "Transition housing & rent",
+    "description": "Rent-free home placement while a family works toward employment, education and financial stability.",
+    "eligibility": "Transitioning active duty, reservist and veteran families within ten years of discharge.",
+    "caveats": "Competitive, location-specific homes and case management; cannot assume a home is available near Houston or DMV. Not cash for your current lease.",
+    "url": "https://operationhomefront.org/transitional-homes-for-veterans/",
+    "geographic_scope": "United States (available-home locations)",
+    "next_step": "Review available homes in My Operation Homefront and ask about selection requirements and geographic fit.",
+    "help_type": "Rent-free home placement",
+    "statuses": [
+      "active",
+      "veteran",
+      "retired"
+    ],
+    "timing": "Housing overview lists 2\u20133 years.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider",
+    "verification": "Program application / supporting documents"
+  },
+  {
+    "id": "housing-06",
+    "title": "VA SSVF \u2014 short-term rent, deposits and moving assistance",
+    "category": "Transition housing & rent",
+    "description": "Local nonprofit providers may pay rent, security or utility deposits and moving costs to prevent or end veteran homelessness.",
+    "eligibility": "Veteran households meeting current income and homelessness or imminent-risk screening; generally discharge other than dishonorable. Local provider verifies current rules.",
+    "caveats": "Not an automatic benefit for everyone leaving military. Amount, duration and availability vary; apply before committing to costs. Provider income webpages may lag national changes; request current income/disability-income treatment.",
+    "url": "https://department.va.gov/homeless/supportive-services-for-veteran-families/",
+    "geographic_scope": "United States / local providers",
+    "next_step": "Ask VA homeless services for the SSVF provider serving your destination ZIP and a pre-separation referral; request screening for post-discharge income and housing risk.",
+    "help_type": "Rent / deposits / moving / prevention",
+    "statuses": [
+      "veteran",
+      "retired"
+    ],
+    "timing": "Seek referral now; provider determines enrollment timing and eligibility after separation.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider",
+    "verification": "Program application / supporting documents"
+  },
+  {
+    "id": "housing-07",
+    "title": "U.S.VETS Houston \u2014 SSVF and move-in support",
+    "category": "Transition housing & rent",
+    "description": "Houston team offers rent payments, eviction prevention, move-in and utility help, housing search and case management for eligible veterans.",
+    "eligibility": "Veterans/families screened for SSVF or other local housing programs, including income and homelessness-risk requirements.",
+    "caveats": "Financial assistance is case-specific and funding-dependent; not a blanket three-month rent grant. Houston program fact sheet verifies services, not individual eligibility or a vacancy.",
+    "url": "https://usvets.org/wp-content/uploads/2025/11/USVETS-Houston-Fact-Sheet-25_v3.pdf",
+    "geographic_scope": "Houston, Texas",
+    "next_step": "Call 832-203-1626 and request SSVF intake for your proposed Houston ZIP; disclose separation date, projected income and deposit/rent need.",
+    "help_type": "Rent / move-in / utilities / housing",
+    "statuses": [
+      "veteran",
+      "retired"
+    ],
+    "timing": "Ask intake about referral before discharge and available enrollment after discharge.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider",
+    "verification": "Program application / supporting documents"
+  },
+  {
+    "id": "housing-08",
+    "title": "Friendship Place \u2014 Veterans First (DMV)",
+    "category": "Transition housing & rent",
+    "description": "Veteran rapid-rehousing and homelessness-prevention case management helps locate housing and connect to move-in and benefits support.",
+    "eligibility": "Veteran or veteran household; other than dishonorable discharge; homeless or at risk. Page lists income below 50% area median; ask intake for current screening.",
+    "caveats": "County service boundaries and income/risk screening apply; no guaranteed rent award.",
+    "url": "https://friendshipplace.org/programs-outreach/veterans-first/",
+    "geographic_scope": "Washington DC; Montgomery, Prince George\u2019s and Frederick Maryland; Fairfax, Loudoun, Prince William and Arlington Virginia; Alexandria Virginia",
+    "next_step": "Call 202-658-9599 or email vfscreen@friendshipplace.org for Veterans First intake.",
+    "help_type": "SSVF / prevention / housing placement",
+    "statuses": [
+      "veteran",
+      "retired"
+    ],
+    "timing": "",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider",
+    "verification": "Program application / supporting documents"
+  },
+  {
+    "id": "housing-09",
+    "title": "Housing Counseling Services \u2014 DMV SSVF",
+    "category": "Transition housing & rent",
+    "description": "Case-managed help can cover rent arrears, security deposit or first rent, utility deposits, moving and emergency housing.",
+    "eligibility": "Veterans not dishonorably discharged; within service area; homeless or imminent risk; income eligibility (provider currently lists up to 80% area median).",
+    "caveats": "Payments go to third parties case by case. Page contains older linked 2025 income tables; request current limits rather than assuming a quoted table applies.",
+    "url": "https://housingetc.org/who-we-serve/veterans/",
+    "geographic_scope": "Washington DC; Prince George\u2019s and Montgomery Maryland; Fairfax and Arlington Virginia; Alexandria Virginia",
+    "next_step": "Call 202-667-7366 or email ssvfprogram@housingetc.org; request eligibility screening and a destination-specific rent/deposit plan.",
+    "help_type": "Rent arrears / first rent / deposits / moving",
+    "statuses": [
+      "veteran",
+      "retired"
+    ],
+    "timing": "",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider",
+    "verification": "Program application / supporting documents"
+  },
+  {
+    "id": "housing-10",
+    "title": "Texas Veterans Commission \u2014 local grant-funded rent assistance",
+    "category": "Transition housing & rent",
+    "description": "Find local organizations funded to help Texas veterans with rent, deposits and other essential bills.",
+    "eligibility": "Texas veterans/dependents/survivors with financial need, meeting provider service-area and program rules.",
+    "caveats": "TVC grants fund organizations, not direct individual applications. Texas domicile alone does not establish local service eligibility while living elsewhere; ask provider about actual residence.",
+    "url": "https://tvc.texas.gov/directory/directory-category/grants/",
+    "geographic_scope": "Texas / county-specific providers",
+    "next_step": "Search the TVC grant-provider directory for your Houston-area county and financial assistance; apply to the listed organization.",
+    "help_type": "Local rent / deposit grants",
+    "statuses": [
+      "veteran",
+      "retired"
+    ],
+    "timing": "",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider",
+    "verification": "Program application / supporting documents"
+  },
+  {
+    "id": "housing-11",
+    "title": "Maryland Veterans Trust Fund \u2014 overdue housing bills",
+    "category": "Transition housing & rent",
+    "description": "One-time grant paid to vendors can help clear overdue rent, mortgage or utilities during a temporary hardship.",
+    "eligibility": "Maryland residents who are honorably discharged veterans; Maryland National Guard members; qualifying surviving spouses.",
+    "caveats": "Requires Maryland residency, not merely a Maryland driver\u2019s license. Bills must be at least 30\u201360 days overdue under published rules; not advance transition funding or same-day emergency assistance. General discharge not listed as eligible.",
+    "url": "https://veterans.maryland.gov/benefits-services/maryland-veterans-trust-fund",
+    "geographic_scope": "Maryland",
+    "next_step": "Review residency and service requirements, gather lease, past-due bills, DD214, income and bank statements, and apply to the Trust.",
+    "help_type": "One-time overdue rent / utilities grant",
+    "statuses": [
+      "veteran",
+      "retired"
+    ],
+    "timing": "Applications 1st\u201315th monthly; review 16th\u201323rd and notification 24th\u2013end of month.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider",
+    "verification": "Program application / supporting documents"
+  },
+  {
+    "id": "housing-12",
+    "title": "Hope For The Warriors \u2014 Critical Needs",
+    "category": "Transition housing & rent",
+    "description": "Short-term support for urgent rent, mortgage or utility needs, with a case manager and a financial stability plan.",
+    "eligibility": "Post-9/11 warrior community; provider screens financial-support criteria, including injured veterans and families, veterans experiencing homelessness and MST survivors.",
+    "caveats": "Case-specific direct financial support; public page does not promise all veterans qualify. Not immediate emergency cash; published processing may take 3\u20134 weeks.",
+    "url": "https://www.hopeforthewarriors.org/programs-and-services/critical-needs/",
+    "geographic_scope": "United States / Texas grant support also noted",
+    "next_step": "Use Connect to Services and request Critical Needs screening; explain expected gap between military pay and civilian/VA income.",
+    "help_type": "Rent / utilities / financial coaching",
+    "statuses": [
+      "active",
+      "veteran",
+      "retired"
+    ],
+    "timing": "Allow 3\u20134 weeks for processing; begin referral early.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider",
+    "verification": "Program application / supporting documents"
+  },
+  {
+    "id": "housing-13",
+    "title": "USA Cares \u2014 Military Assistance Response / Career Transition",
+    "category": "Transition housing & rent",
+    "description": "Case-reviewed nonrepayable assistance for temporary service-related or medical hardship; essential expenses may also be helped during job training.",
+    "eligibility": "Post-9/11 veterans, active service members and families; service-related incident or medical hardship under provider review.",
+    "caveats": "Ask which housing bills qualify; not every planned transition gap qualifies. Financial education course is part of assistance application.",
+    "url": "https://usacares.org/programs/",
+    "geographic_scope": "United States",
+    "next_step": "Use Get Help or call 800-773-0387; request Military Assistance Response screening and ask whether rent during approved job training can be considered.",
+    "help_type": "Hardship grant / essential expenses during training",
+    "statuses": [
+      "active",
+      "veteran",
+      "retired"
+    ],
+    "timing": "",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider",
+    "verification": "Program application / supporting documents"
+  },
+  {
+    "id": "housing-14",
+    "title": "Semper Fi & America\u2019s Fund \u2014 housing assistance (Army included)",
+    "category": "Transition housing & rent",
+    "description": "Case managers may help with urgent rent, mortgage and utilities as part of recovery support for seriously wounded, ill or injured service members.",
+    "eligibility": "Combat wounded, critically ill or catastrophically injured service members/veterans and military families; all-service provider, including Army.",
+    "caveats": "A 30% DoD medical-retirement rating alone is not proof of meeting the Fund\u2019s severity criteria. Case manager decides need and program eligibility.",
+    "url": "https://thefund.org/programs/housing-assistance/",
+    "geographic_scope": "United States / all service branches",
+    "next_step": "Call 760-725-3680 or use the financial-family-assistance intake; provide diagnosis/recovery needs and housing bill.",
+    "help_type": "Urgent rent / utilities / recovery support",
+    "statuses": [
+      "active",
+      "veteran",
+      "retired"
+    ],
+    "timing": "",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider",
+    "verification": "Program application / supporting documents"
+  },
+  {
+    "id": "housing-15",
+    "title": "VFW Financial Assistance for Service Members \u2014 apply while active",
+    "category": "Transition housing & rent",
+    "description": "Grant up to $2,500 for eligible necessities; payment goes straight to the creditor. Formerly called Unmet Needs.",
+    "eligibility": "Currently active duty or activated Guard/Reserve; hardship tied to eligible deployment, military pay error or pending medical discharge from service-connected injury/illness.",
+    "caveats": "Current program is active-duty focused, not general post-discharge veteran rent. Requires eligible current bills and documented qualifying cause; financial mismanagement and several other causes excluded.",
+    "url": "https://www.vfw.org/UnmetNeeds",
+    "geographic_scope": "United States / active military",
+    "next_step": "Call 866-789-6333 or email financialassistance@vfw.org before separation; review criteria linked on official page and ask about current rent bill.",
+    "help_type": "Grant / essential bills",
+    "statuses": [
+      "active"
+    ],
+    "timing": "Apply while still eligible active duty; cannot assume availability after retirement.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider",
+    "verification": "Program application / supporting documents"
+  },
+  {
+    "id": "housing-16",
+    "title": "Operation First Response \u2014 emergency assistance while active",
+    "category": "Transition housing & rent",
+    "description": "Emergency financial support can address basics such as rent, utilities or groceries for currently serving members.",
+    "eligibility": "Current emergency program serves active-duty service members of all branches; separate Gold Star/first-responder categories exist.",
+    "caveats": "Provider has narrowed emergency funding to active duty. Ordinary veteran transition rent is not covered by the current general program; veteran Last Mission exception is tied to approved inpatient treatment.",
+    "url": "https://www.operationfirstresponse.org/assistance-request/",
+    "geographic_scope": "United States / active military",
+    "next_step": "Email info@operationfirstresponse.org with service member name, Army status, hardship summary and phone; no public application window.",
+    "help_type": "Emergency essential bills",
+    "statuses": [
+      "active"
+    ],
+    "timing": "Contact before separation for an actual current emergency; provider reviews individual need.",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider",
+    "verification": "Program application / supporting documents"
+  },
+  {
+    "id": "housing-17",
+    "title": "Coalition to Salute America\u2019s Heroes \u2014 narrowly eligible emergency aid",
+    "category": "Transition housing & rent",
+    "description": "Direct financial assistance for dire financial hardship in qualifying Iraq/Afghanistan combat-injured veterans.",
+    "eligibility": "Post-9/11 OEF/OIF veteran; boots on ground Iraq/Afghanistan; qualifying DD214; honorable discharge; at least 30% rating for a single injury sustained there; first-time applicant.",
+    "caveats": "Combined 30% medical retirement or a noncombat injury does not establish eligibility. Limited funds; general discharge not accepted in published criteria.",
+    "url": "https://saluteheroes.org/get-help/",
+    "geographic_scope": "United States",
+    "next_step": "Review every eligibility condition and use online intake if met; if excluded, ask about advocacy referrals.",
+    "help_type": "Emergency grant / overdue bills",
+    "statuses": [
+      "veteran",
+      "retired"
+    ],
+    "timing": "",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider",
+    "verification": "Program application / supporting documents"
+  },
+  {
+    "id": "housing-18",
+    "title": "HUD\u2013VASH \u2014 longer-term supportive rental voucher",
+    "category": "Transition housing & rent",
+    "description": "Rental voucher paired with VA case management to help eligible homeless veterans sustain permanent housing.",
+    "eligibility": "VA homelessness/case-management eligibility and housing-authority income screening; local VA and housing authority determine admission.",
+    "caveats": "Not routine rent for every separating Soldier and not an automatic near-homelessness benefit. Voucher availability, referral and housing search can take time.",
+    "url": "https://www.hud.gov/program_offices/public_indian_housing/programs/hcv/vash",
+    "geographic_scope": "United States",
+    "next_step": "Ask the destination VA homeless coordinator whether HUD\u2013VASH or SSVF better fits your actual housing situation.",
+    "help_type": "Longer-term voucher / case management",
+    "statuses": [
+      "veteran",
+      "retired"
+    ],
+    "timing": "",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider",
+    "verification": "Program application / supporting documents"
+  },
+  {
+    "id": "careers-01",
+    "title": "USAJOBS \u2014 federal veterans\u2019 preference",
+    "category": "Jobs & internships",
+    "description": "Eligible veterans receive hiring consideration under federal preference rules. Find federal jobs and claim the correct preference on your application.",
+    "eligibility": "Honorable or general discharge plus qualifying service, campaign, Purple Heart or service-connected disability criteria.",
+    "caveats": "Military service alone does not always qualify. Rules vary by hiring authority; preference does not guarantee a job. Submit DD-214, SF-15 and rating evidence as applicable. Active members may use qualifying certification of expected discharge.",
+    "url": "https://help.usajobs.gov/HiringPath/Veterans",
+    "geographic_scope": "U.S. / overseas federal jobs; filter DMV, Houston or remote",
+    "next_step": "Create your USAJOBS profile, review the veterans hiring path, and save location-specific searches.",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran"
+    ],
+    "help_type": "Statutory veterans\u2019 preference",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider",
+    "verification": "Service / disability documents or employer application"
+  },
+  {
+    "id": "careers-02",
+    "title": "Federal hiring \u2014 30% or more disabled veteran authority",
+    "category": "Jobs & internships",
+    "description": "A federal agency may appoint a qualified disabled veteran without the usual competitive process, with no grade ceiling.",
+    "eligibility": "Military retirement with service-connected disability of at least 30%, OR a compensable VA service-connected rating of at least 30%; honorable/general discharge documentation.",
+    "caveats": "Agency discretion; no guaranteed appointment. DoD and VA ratings are different, but either documented qualifying route can work. Initial time-limited appointment must exceed 60 days; conversion is discretionary.",
+    "url": "https://www.opm.gov/fedshirevets/hiring-officials/strategic-recruitment-and-hiring/veterans/",
+    "geographic_scope": "U.S. / federal jobs; useful for DMV",
+    "next_step": "Once documented, tell agency HR you qualify and provide VA letter or military retirement/discharge evidence.",
+    "statuses": [
+      "retired",
+      "veteran"
+    ],
+    "help_type": "Special federal hiring authority",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider",
+    "verification": "Service / disability documents or employer application"
+  },
+  {
+    "id": "careers-03",
+    "title": "Federal hiring \u2014 Veterans Recruitment Appointment (VRA)",
+    "category": "Jobs & internships",
+    "description": "Agencies can hire eligible veterans noncompetitively into qualifying positions through GS-11 or equivalent.",
+    "eligibility": "Qualifying disabled, campaign/expeditionary-medal, Armed Forces Service Medal or recently separated veterans; honorable/general discharge.",
+    "caveats": "Must meet position qualifications. Agency decides whether to use VRA. Permanent-track appointments convert after two satisfactory years; temporary/term appointments do not carry that conversion.",
+    "url": "https://www.opm.gov/fedshirevets/hiring-officials/strategic-recruitment-and-hiring/veterans/",
+    "geographic_scope": "U.S. / federal jobs",
+    "next_step": "Ask the agency veterans employment coordinator about VRA and provide qualifying discharge/award documents.",
+    "statuses": [
+      "retired",
+      "veteran"
+    ],
+    "help_type": "Special federal hiring authority",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider",
+    "verification": "Service / disability documents or employer application"
+  },
+  {
+    "id": "careers-04",
+    "title": "Army PaYS \u2014 guaranteed partner interviews",
+    "category": "Jobs & internships",
+    "description": "Army partner employers offer qualifying Soldiers job interviews and possible employment after service.",
+    "eligibility": "Current Army Soldiers may register retroactively; PaYS Live includes Soldiers within 18 months of exit and Army veterans. Honorable discharge required.",
+    "caveats": "Interview guarantee is subject to program/partner requirements; employment is not guaranteed. General discharge is not the published qualifying discharge.",
+    "url": "https://armypays.com/SOLDIER_REDIRECT.html",
+    "geographic_scope": "U.S. / Army partner locations",
+    "next_step": "Register for PaYS Reservations and PaYS Live now; search partners near Houston and the DMV.",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran"
+    ],
+    "help_type": "Army interview pathway",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider",
+    "verification": "Service / disability documents or employer application"
+  },
+  {
+    "id": "careers-05",
+    "title": "Hiring Our Heroes \u2014 Corporate Fellowship",
+    "category": "Jobs & internships",
+    "description": "A 12-week civilian workplace fellowship helps you gain experience and meet potential employers before leaving active duty.",
+    "eligibility": "Active-duty transitioning members with aligned timeline, education and leadership experience; program within last 180 days, subject to Army approval.",
+    "caveats": "Army rank/service limits and command approval may shorten the authorized window. Cohort and employer selection are competitive; no job guarantee.",
+    "url": "https://www.hiringourheroes.org/career-services/fellowships/",
+    "geographic_scope": "Nationwide; host locations and remote options vary",
+    "next_step": "Contact your Army CSP office immediately, then attend the fellowship information session and confirm cohort timing.",
+    "statuses": [
+      "active"
+    ],
+    "help_type": "Pre-separation internship / SkillBridge",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider",
+    "verification": "Service / disability documents or employer application"
+  },
+  {
+    "id": "careers-06",
+    "title": "Amazon / AWS \u2014 paid technical apprenticeships",
+    "category": "Jobs & internships",
+    "description": "Paid classroom and hands-on training helps veterans move into cloud technology careers, followed by up to 12 months of paid on-the-job training.",
+    "eligibility": "Military veterans; individual apprenticeship requirements apply.",
+    "caveats": "Cohorts and roles vary. No guaranteed opening in Houston, DMV or remotely; employer recruitment is not statutory veterans\u2019 preference.",
+    "url": "https://www.amazon.jobs/content/en/teams/amazon-web-services/technical-apprenticeships",
+    "geographic_scope": "U.S.; location depends on opening",
+    "next_step": "Follow the official apprenticeship page to current openings and check location and start dates.",
+    "statuses": [
+      "retired",
+      "veteran"
+    ],
+    "help_type": "Paid apprenticeship",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider",
+    "verification": "Service / disability documents or employer application"
+  },
+  {
+    "id": "careers-07",
+    "title": "Amazon \u2014 military career recruiting",
+    "category": "Jobs & internships",
+    "description": "Military-focused recruiting connects your Army experience to operations, logistics, technology and other civilian roles.",
+    "eligibility": "Veterans, transitioning active service members, Guard and Reserve; role requirements apply.",
+    "caveats": "Recruiting commitment does not guarantee preference, an interview or employment. Check each posting for location and credentials.",
+    "url": "https://amazon.jobs/content/en/career-programs/military",
+    "geographic_scope": "U.S. / international; openings vary",
+    "next_step": "Use the military careers portal and filter openings for Houston, DMV or remote.",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran"
+    ],
+    "help_type": "Military recruiting / career support",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider",
+    "verification": "Service / disability documents or employer application"
+  },
+  {
+    "id": "careers-08",
+    "title": "Lockheed Martin \u2014 Continuing Your Mission / Heroes",
+    "category": "Jobs & internships",
+    "description": "Military relations managers help match experience to roles; the Heroes program includes internships, fellowships and SkillBridge opportunities.",
+    "eligibility": "Transitioning service members and veterans; each program and position has its own requirements.",
+    "caveats": "No guaranteed interview or statutory preference. SkillBridge needs Army approval before separation; clearance and citizenship requirements may apply.",
+    "url": "https://www.lockheedmartin.com/en-us/careers/candidates/military-veterans.html",
+    "geographic_scope": "U.S.; filter by desired location",
+    "next_step": "Enroll in Continuing Your Mission and ask the military relations team about Heroes and your separation date.",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran"
+    ],
+    "help_type": "Military recruiting / career support",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider",
+    "verification": "Service / disability documents or employer application"
+  },
+  {
+    "id": "careers-09",
+    "title": "Northrop Grumman \u2014 SkillBridge",
+    "category": "Jobs & internships",
+    "description": "On-the-job civilian training during the end of active service in engineering, cyber, manufacturing and related work.",
+    "eligibility": "At least 180 days active service; company asks applicants within 12 months of separation/retirement, expected honorable discharge, transition/ethics training and commander authorization.",
+    "caveats": "Actual participation occurs during the final authorized service window, up to 180 days, with Army-specific limits. Selection and a later job are not guaranteed.",
+    "url": "https://www.northropgrumman.com/careers/skillbridge",
+    "geographic_scope": "U.S.; role locations vary",
+    "next_step": "Join the military talent network, mark your resume SkillBridge Eligible, and coordinate dates with Army CSP.",
+    "statuses": [
+      "active"
+    ],
+    "help_type": "Pre-separation internship / SkillBridge",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider",
+    "verification": "Service / disability documents or employer application"
+  },
+  {
+    "id": "careers-10",
+    "title": "Northrop Grumman \u2014 military recruiting and Operation IMPACT",
+    "category": "Jobs & internships",
+    "description": "Military career matching and a talent network connect veterans to roles. Operation IMPACT supports separating members with service-connected conditions.",
+    "eligibility": "Veterans and transitioning service members; Operation IMPACT has additional program screening.",
+    "caveats": "A prospective 30% rating does not automatically establish Operation IMPACT eligibility. Ask for its current criteria. No guaranteed preference or job.",
+    "url": "https://www.northropgrumman.com/careers/military-veterans-searching-for-civilians-careers",
+    "geographic_scope": "U.S.; check DMV and other locations",
+    "next_step": "Join the military talent community and ask whether Operation IMPACT fits your medical transition.",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran"
+    ],
+    "help_type": "Military recruiting / career support",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider",
+    "verification": "Service / disability documents or employer application"
+  },
+  {
+    "id": "careers-11",
+    "title": "BAE Systems \u2014 military recruiting / Warrior Integration",
+    "category": "Jobs & internships",
+    "description": "Veteran recruiters and an Army MOS translator help identify roles. Warrior Integration provides specialized training for post-9/11 members with service-connected injuries.",
+    "eligibility": "Veterans and transitioning service members; Warrior Integration and positions have separate criteria.",
+    "caveats": "Private employer pathway, not statutory preference. General-discharge eligibility and disability criteria must be confirmed per program; no automatic admission.",
+    "url": "https://jobs.baesystems.com/military",
+    "geographic_scope": "U.S.; locations depend on role",
+    "next_step": "Use the MOS translator and military interest form; ask about Warrior Integration and roles in the DMV.",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran"
+    ],
+    "help_type": "Military recruiting / career support",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider",
+    "verification": "Service / disability documents or employer application"
+  },
+  {
+    "id": "careers-12",
+    "title": "BAE Systems \u2014 SkillBridge",
+    "category": "Jobs & internships",
+    "description": "Civilian work experience and training during the last part of active service, with possible full-time employment afterward.",
+    "eligibility": "Active-duty members able to finish within their last 180 days and obtain branch/command approval.",
+    "caveats": "Army limits may reduce duration. Company lists specific locations; do not assume a Houston or DMV placement. Selection and employment are not guaranteed.",
+    "url": "https://jobs.baesystems.com/global/en/skillbridge",
+    "geographic_scope": "Selected U.S. sites; current needs vary",
+    "next_step": "Apply to a matching role and submit the SkillBridge interest form with your preferred region.",
+    "statuses": [
+      "active"
+    ],
+    "help_type": "Pre-separation internship / SkillBridge",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider",
+    "verification": "Service / disability documents or employer application"
+  },
+  {
+    "id": "careers-13",
+    "title": "Booz Allen \u2014 military recruiting / HOH fellowship",
+    "category": "Jobs & internships",
+    "description": "Military talent recruiting and a 12-week Hiring Our Heroes fellowship help translate service experience into civilian work.",
+    "eligibility": "Transitioning active-duty members for the service-member fellowship route; veterans can pursue regular military recruiting.",
+    "caveats": "Confirm the correct HOH route and Army approval. Roles may require citizenship or clearances. Employer support is not statutory preference or a job guarantee.",
+    "url": "https://www.boozallen.com/careers/military-talent.html",
+    "geographic_scope": "U.S. / overseas; check DMV and role-specific remote options",
+    "next_step": "Explore military careers, join the talent community and ask HOH about a cohort matching your exit date.",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran"
+    ],
+    "help_type": "Military recruiting / career support",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider",
+    "verification": "Service / disability documents or employer application"
+  },
+  {
+    "id": "careers-14",
+    "title": "Wells Fargo \u2014 National Military Apprenticeship",
+    "category": "Jobs & internships",
+    "description": "One- or two-year registered apprenticeships hire participants as full-time employees with pay and benefits from day one.",
+    "eligibility": "U.S. military veterans of all eras, Guard and Reserve; position qualifications apply.",
+    "caveats": "Roles post throughout the year and locations vary; relocation may be required. VA education benefits require separate eligibility. No job guarantee.",
+    "url": "https://www.wellsfargojobs.com/en/inclusion/military/military-recruitment-programs/military-apprenticeship/",
+    "geographic_scope": "U.S.; cohort-dependent locations",
+    "next_step": "Join the military talent community and check current apprenticeship postings for desired locations.",
+    "statuses": [
+      "retired",
+      "veteran"
+    ],
+    "help_type": "Paid apprenticeship / full-time job",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider",
+    "verification": "Service / disability documents or employer application"
+  },
+  {
+    "id": "careers-15",
+    "title": "Hire Heroes USA \u2014 free career coaching",
+    "category": "Jobs & internships",
+    "description": "A career advisor helps with civilian resumes, interviews, networking, job searches and salary negotiation at no charge.",
+    "eligibility": "Transitioning members and veterans of all service eras; discharge received or expected must be above dishonorable.",
+    "caveats": "Career support, not a placement agency or guaranteed job. Provider recommends registering within 18 months of availability to work.",
+    "url": "https://www.hireheroesusa.org/what-to-expect/",
+    "geographic_scope": "Nationwide / remote support",
+    "next_step": "Register now with service documentation and your expected separation date.",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran"
+    ],
+    "help_type": "Free coaching / resume / interview help",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider",
+    "verification": "Service / disability documents or employer application"
+  },
+  {
+    "id": "careers-16",
+    "title": "RecruitMilitary \u2014 veteran jobs and career fairs",
+    "category": "Jobs & internships",
+    "description": "A military-focused job board and in-person/virtual fairs connect you with employers recruiting veterans, including overseas roles.",
+    "eligibility": "Transitioning members, veterans, Guard and Reserve; each opening has separate requirements.",
+    "caveats": "A veteran-focused listing is not proof of statutory hiring preference. Event and vacancy availability changes.",
+    "url": "https://recruitmilitary.com/job-seekers/",
+    "geographic_scope": "Nationwide / virtual / overseas; filter Houston or DMV",
+    "next_step": "Build your profile and search by Army MOS, city or remote; check the live fair calendar.",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran"
+    ],
+    "help_type": "Veteran job board / hiring events",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider",
+    "verification": "Service / disability documents or employer application"
+  },
+  {
+    "id": "careers-17",
+    "title": "HIRE Vets Medallion \u2014 employer directory",
+    "category": "Jobs & internships",
+    "description": "Find employers recognized by the Department of Labor for veteran hiring, retention and professional development.",
+    "eligibility": "Directory open to everyone; individual jobs have their own requirements.",
+    "caveats": "An award identifies employer practices, not a guaranteed preference, current vacancy or interview. Check award year and each company career page.",
+    "url": "https://www.hirevets.gov/awardees",
+    "geographic_scope": "All states; filter Texas, Maryland, Virginia or DC",
+    "next_step": "Filter the map by location, then check the awardees\u2019 official career sites.",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran"
+    ],
+    "help_type": "Military-focused employer directory",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider",
+    "verification": "Service / disability documents or employer application"
+  },
+  {
+    "id": "careers-18",
+    "title": "Maryland American Job Centers \u2014 veteran employment help",
+    "category": "Jobs & internships",
+    "description": "Local job centers provide job-search help; qualifying veterans receive priority of service, and eligible veterans can receive intensive employment support.",
+    "eligibility": "Transitioning members and veterans; priority and Disabled Veterans Outreach Program eligibility require screening.",
+    "caveats": "Priority is access to qualifying services, not guaranteed employer preference or job placement. A Maryland license alone does not settle program eligibility.",
+    "url": "https://labor.maryland.gov/employment/veteranservices.shtml",
+    "geographic_scope": "Maryland / DMV",
+    "next_step": "Contact the center near your intended Maryland home and ask for a veteran employment intake.",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran"
+    ],
+    "help_type": "Local employment assistance / service priority",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider",
+    "verification": "Service / disability documents or employer application"
+  },
+  {
+    "id": "careers-19",
+    "title": "DC government \u2014 veterans\u2019 hiring preference",
+    "category": "Jobs & internships",
+    "description": "Eligible veterans may claim legal hiring preference when applying for qualifying District government positions.",
+    "eligibility": "Qualifying disabled veterans or veterans with eligible service periods/operations; proof required with application.",
+    "caveats": "Retirees at Major/Lieutenant Commander or above generally excluded unless retirement is service-connected disability based. Verify the posting and current eligibility with DCHR; a job is not guaranteed.",
+    "url": "https://dchr.dc.gov/page/hiring-preferences",
+    "geographic_scope": "Washington, DC",
+    "next_step": "Read the preference requirements and attach service/disability proof with the application.",
+    "statuses": [
+      "retired",
+      "veteran"
+    ],
+    "help_type": "Statutory veterans\u2019 preference",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider",
+    "verification": "Service / disability documents or employer application"
+  },
+  {
+    "id": "careers-20",
+    "title": "Virginia state jobs \u2014 veterans\u2019 hiring preference",
+    "category": "Jobs & internships",
+    "description": "Qualified veterans receive added hiring consideration; service-connected disabled veterans receive additional preference.",
+    "eligibility": "Qualifying veterans who meet the job\u2019s minimum requirements; disability preference uses a VA service-connected rating.",
+    "caveats": "Preference does not guarantee selection. Virginia\u2019s rules differ from federal hiring; follow state documentation requirements.",
+    "url": "https://www.dhrm.virginia.gov/docs/default-source/hrpolicy/policyguides/policy-guide-preference-for-veteran-national-guard-surviving-spouse-child.pdf",
+    "geographic_scope": "Virginia / DMV",
+    "next_step": "Claim veteran status on the state application and provide requested discharge and VA rating evidence.",
+    "statuses": [
+      "retired",
+      "veteran"
+    ],
+    "help_type": "Statutory veterans\u2019 preference",
+    "last_verified": "2026-10-16",
+    "source_type": "Primary provider",
+    "verification": "Service / disability documents or employer application"
+  },
+  {
+    "id": "careers-mcta",
+    "title": "Microsoft Cleared Talent Accelerator \u2014 90-day training",
+    "category": "Jobs & internships",
+    "description": "Free full-time remote technology training for transitioning service members and veterans who already hold an active TS/SCI clearance or higher.",
+    "eligibility": "Active TS/SCI or higher; learning-path prerequisites and relevant experience; Army approval for SkillBridge.",
+    "caveats": "No clearance sponsorship or guaranteed job. Cloud/consulting path requires at least one year of relevant IT experience. Applications roll until capacity; provider says accepting applications, but individual seats are not confirmed.",
+    "url": "https://military.microsoft.com/mssa-cleared-talent-accelerator/",
+    "geographic_scope": "United States / remote online training",
+    "statuses": [
+      "active",
+      "retired",
+      "veteran"
+    ],
+    "next_step": "Review eligibility and apply through the portal linked on Microsoft\u2019s official page.",
+    "timing": "Cloud/consulting cohort February 22\u2013May 21, 2027. Project-management applications begin November 16, 2026.",
+    "help_type": "Free training / SkillBridge",
+    "verification": "Provider admissions / clearance verification",
+    "last_verified": "2026-10-16",
+    "source_type": "Microsoft Military Affairs"
+  }
+]
